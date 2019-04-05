@@ -6,7 +6,7 @@ title: 'This is the title of our section or page', author: 'Kristian Bjornard - 
 
 # My Main Title
 
-Adding a starter paragraph so that we can commit a new change.
+Adding a starter paragraph so that we can commit a new change. I am adding more stuff here to show a merge problem.
 
 ## A subhead
 
