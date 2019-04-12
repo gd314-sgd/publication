@@ -1,6 +1,6 @@
 ---
 short_name: devin
 name: Devin Halladay
-role: Product Designer
+specialization: Product Designer
 ---
 Short author bio goes here.
