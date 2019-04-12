@@ -1,6 +1,6 @@
 ---
 short_name: Alex
 name: Alexandra Petrenko
-specialization: Product Designer
+specialization: Motion Designer
 ---
 Short author bio goes here.
