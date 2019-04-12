@@ -7,3 +7,13 @@ If you need more info about markdown here are some resources:
 - https://guides.github.com/features/mastering-markdown/
 - https://blog.ghost.org/markdown/
 - https://daringfireball.net/projects/markdown/
+
+# [name].md Template:
+```md
+---
+short_name: devin
+name: Devin Halladay
+specialization: Product Designer
+---
+Short author bio goes here.
+```
