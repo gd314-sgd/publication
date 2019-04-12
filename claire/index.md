@@ -1,4 +1,5 @@
 #Sustainable Portfolio Website
+##Claire Evans | 2019
 
 I started making my own website on Adobe's portfolio feature, thankful that I would not have to spend more money on a domain and server account. However, I know very little about the ways of the web, the way that you are supposed to optimize images, and the way the servers have to send information back and forth constantly in order to load content on a site. So I embraced my large images, ability to put as much content as I would want on the site, and the amazing animation features that work throughout the site. 
 
@@ -24,7 +25,7 @@ I actually found it challenging to find examples of low-energy sites, and if the
 * http://ovefelt.se/
 * http://www.tvrdek.cz/en 
 
-When I inspected both of my sites, I could actually see the impact that my new site had on decreasing energy. To experience my new coded portfolio site, it took one load of 141ms (which is a really low amount). In order to load my previous website, it took 700-900ms per click, and there are seven different pages to load to view all of the content. Though this project may seem minutely impactful in the grand scheme of sustainability, if everyone were take this approach, it would make a large scale difference.
+When I inspected both of my sites, I could actually see the impact that my new site had on decreasing energy. To experience my new coded portfolio site, it took one load of 141ms (which is a really low amount). In order to load my previous website, it took 700-900ms per page click, and there are seven different pages to load to view all of the content. Though this project may seem minutely impactful in the grand scheme of sustainability, if everyone were take this approach, it would make a large scale difference. Of course visual aesthetics might be more important to someone, and that does not have to be disregarded—just being mindful and designing with this understanding is what counts.
 
 
 
