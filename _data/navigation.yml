@@ -1,5 +1,7 @@
 - name: Home
   url: /
+- name: Book
+  url: /book
 - name: About
   url: /about
 - name: Authors
