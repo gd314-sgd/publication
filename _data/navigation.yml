@@ -1,6 +1,6 @@
 - name: Home
-  link: /
+  url: /
 - name: About
-  link: /about
+  url: /about
 - name: Authors
-  link: /authors
+  url: /authors

@@ -2,7 +2,7 @@
   <nav>
     <ul>
       {% for link in site.data.navigation %}
-      <li><a href="{{ link.url }}">{{ link.name }}</a></li>
+        <li><a href="{{ link.url | relative_url }}">{{ link.name }}</a></li>
       {% endfor %}
     </ul>
   </nav>
