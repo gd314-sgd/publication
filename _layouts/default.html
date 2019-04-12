@@ -3,11 +3,14 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
+    <link rel="stylesheet" href={{ "/assets/css/style.css" | relative_url }}>
   </head>
   <body>
     <h1>{{ page.title }}</h1>
     <main>
       {{ content }}
     </main>
+
+    <script src={{ "/assets/js/app.js" | relative_url }}></script>
   </body>
 </html>
