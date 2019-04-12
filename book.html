@@ -21,25 +21,7 @@ ____________________________________________________
 
 Blank Page
 -->
-<div class="_page-break"></div>
-
-
-<!--
-____________________________________________________
-
-Half Title Page
--->
-<div class="halftitle-page">
-  <h1>{{ page.title }}</h1>
-</p></div>
-<div class="_page-break"></div>
-
-
-<!--
-____________________________________________________
-
-Blank Page
--->
+<div>&nbsp;</div>
 <div class="_page-break"></div>
 
 
@@ -52,8 +34,6 @@ Title Page
   <h2>{{ page.title }}</h2>
   <p>
     {% for author in site.authors %}
-      {% assign i = i | plus: 1 %}
-    
       {% if forloop.index < site.authors.size %}
         {{ author.name }},
       {% else %}
@@ -61,30 +41,4 @@ Title Page
       {% endif %}
     {% endfor %}
   </p>
-
 </div>
-<div class="_page-break"></div>
-
-
-<!--
-____________________________________________________
-
-Front Matter, maybe?
--->
-<div class="title-page copyright">
-<p>{% for page in site.pages %}{% if page.category == 'credits' %}
-               {{page.content}}
-                {% endif %}{% endfor %}</p>
-</div>
-<div class="_page-break"></div>
-<p><em>{{ page.subtitle }}</em></p>
-<div class="_page-break"></div>
-
-
-
-{% for entry in site.entries %}
-  <h2>{{ entry.title | escape }}</h2>
-  <div class="entry-content">
-    {{ entry.content | markdownify }}
-  </div>
-{% endfor %}
