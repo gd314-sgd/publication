@@ -8,6 +8,10 @@ title: 'This is the title of our section or page', author: 'Kristian Bjornard - 
 
 This is Devin's change Adding a starter paragraph so that we can commit a new change.
 
+**This will be bold text!** and _This_ or _this_ will be Italic Text!
+
+[And! anything you put in brackets](1) will be a link (you need the parenthesis at the end of the brackets.)
+
 ## A subhead
 
 ### A sub-subhead...
