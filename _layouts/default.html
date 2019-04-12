@@ -3,10 +3,10 @@
   <head>
     {% include meta.html %}
   </head>
-  <body>
+  <body {% if page.class %}{{ page.class }}{% endif %}>
     {% include navigation.html %}
 
-    <main>
+    <main id="content">
       {{ content }}
     </main>
 
@@ -21,6 +21,12 @@
       {% for script in page.external_script %}
         <script type="text/javascript" src={{ script }}></script>
       {% endfor %}
+    {% endif %}
+
+    {% if page.layout == 'print' %}
+      <script>
+        Bindery.makeBook({ content: '#content' });
+      </script>
     {% endif %}
   </body>
 </html>
