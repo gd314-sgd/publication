@@ -16,4 +16,4 @@ The best option ended up being newsprint, because it travels through the least a
 
 ## Ink considerations
 
-Regular, petroleum-based ink contains a high amount of 'VOCs'—volatile organic compounds. These can be carcinogenic and toxic to ecosystems.  
+Regular, petroleum-based ink contains a high amount of 'VOCs'—volatile organic compounds. These can be carcinogenic and toxic to ecosystems. In the case of this book, the ink is very important because it has to be buried into soil—and toxic ink would not be optimal. Soy-ink is a great solution because not only are colors brighter
