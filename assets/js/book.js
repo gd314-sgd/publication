@@ -60,32 +60,12 @@ function reportPagesLeft(p) {
 }
 
 
-stat.innerText = "Loading images...";
-imagesLoaded(document.body, function (instance) {
-  if (regionizer) {
-    regionizer.removeAttribute("disabled");
-    stat.innerText = "Ready";
-  }
-});
-
-
 
 // -------------------------
 
 // Toggle guides
 
 // -------------------------
-
-function toggleGuidesAndBleed(e) {
-  // e.preventDefault();
-  if (document.documentElement.classList.contains("_guides")) {
-    document.documentElement.classList.remove("_guides");
-  }
-  else {
-    document.documentElement.classList.add("_guides");
-  }
-}
-
 
 function toggleCropMarks(e) {
   // e.preventDefault();
@@ -96,24 +76,4 @@ function toggleCropMarks(e) {
     document.documentElement.classList.add("_cropmarks");
   }
 }
-
-
-// -------------------------
-// Update table of contents
-
-Bindery.afterBind({}, function (pg, state) {
-
-  // If there is an in-page heading
-  var heading = pg.querySelector("[data-change-running-head]");
-  if (heading) {
-    // Add this page to the table of contents
-    var id = heading.getAttribute("data-id");
-    if (id) {
-      var num = pg.parentNode.getAttribute("data-page");
-      var tocLine = document.querySelector('.page-inner [data-toc="' + id + '"]');
-      if (tocLine) tocLine.innerText = num;
-    }
-  }
-});
-
 
