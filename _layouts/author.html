@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<h1>{{ page.name }}</h1>
+<h2>{{ page.specialization }}</h2>
+
+{{ content }}
+
+<h2>Posts</h2>
+<ul>
+  {% assign filtered_entries = site.entries | where: 'author', page.short_name %}
+  {% for entry in filtered_entries %}
+  <li><a href="{{ entry.url }}">{{ entry.title }}</a></li>
+  {% endfor %}
+</ul>

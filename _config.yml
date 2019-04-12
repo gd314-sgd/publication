@@ -9,6 +9,8 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
+permalink: pretty
+
 sass:
     sass_dir: assets/css
 
@@ -18,7 +20,19 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
+  -
+    scope:
+      path: "_authors" # an empty string here means all files in the project
+    values:
+      layout: "author"
+  -
+    scope:
+      path: "_entries" # an empty string here means all files in the project
+    values:
+      layout: "entry"
 
 collections:
   authors:
+    output: true
+  entries:
     output: true
