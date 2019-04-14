@@ -6,6 +6,10 @@ Assigned by head of the graphic design department, Brockett Horne, I was tasked 
 
 From the beginning I wanted to focus on sustainability and if it can be incorporated into a identity system. In order to full commit to the theme, I set up a number of restrictions: no vinyl, black and white and light ink coverage. (Light ink coverage can be found by going to InDesign >Window >Output >Separations Preview.) (http://www.eggplantstudios.ca/understanding-the-ink-limit/)
 
+![Deconstruction of "Giza" typeface](Deconstruction_1.png)
+![Deconstruction of "Giza" typeface](Deconstruction_2.png)
+![Deconstruction of "Giza" typeface](Deconstruction_3.png)
+
 The first step is to create a logo that would be put up right above the entrance of the department floor. In order for the brand to connect to the larger scope of the school, but also play on the idea that the department is subversive and rule-breaking, I took one of MICA’s iconic “Giza” typeface and decided to take apart the letters and reconstruct it into an entirely new typeface, playing into the idea of reusing and repurposing digital materials. By doing this, not only does this create interesting opportunities for modular type, but also give form to pattern-making, iconography and wayfinding (arrows). A large stencil would be fashioned so it can be used as a form of permanent signage for the floor but also as a substitute for exhibition signage in Bronze Gallery. 
 
 ![Alphabet](MakerGiza_Alphabet.png)
