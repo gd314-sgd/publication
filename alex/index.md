@@ -16,6 +16,6 @@ Choosing the body text came down to convenience, conservation of energy and acce
 
 ![Alphabet](MakerGiza_Alphabet.png)
 
-"Maker Giza" is named for the designer as maker. The notion of a "maker" is rooted in traditional crafts and practices, which is what "Maker Giza" aims to do through its subversion of signage and typographic treatment. 
+"Maker Giza" is named for the role of designer as maker. The notion of a "maker" is rooted in traditional crafts and practices, which is what "Maker Giza" aims to do through its subversion of signage and typographic treatment. 
 
 By creating this identity, I hope to bring to light that sustainable measures in design can exist and substitute as healthy alternatives to what we think is the "right" way of doing design.
