@@ -10,9 +10,14 @@ From the beginning I wanted to focus on sustainability and if it can be incorpor
 
 The first step is to create a logo that would be put up right above the entrance of the department floor. In order for the brand to connect to the larger scope of the school, but also play on the idea that the department is subversive and rule-breaking, I took one of MICA’s iconic “Giza” typeface and decided to take apart the letters and reconstruct it into an entirely new typeface, playing into the idea of reusing and repurposing digital materials. By doing this, not only does this create interesting opportunities for modular type, but also give form to pattern-making, iconography and wayfinding (arrows). A large stencil would be fashioned so it can be used as a form of permanent signage for the floor but also as a substitute for exhibition signage in Bronze Gallery. 
 
+![Stencil outline](MakerGiza_StencilOutline.png)
+
+Choosing the body text came down to convenience, conservation of energy and accessibility. By choosing the default type native to InDesign and Illustrator, typefaces like “Minion Pro” and “Myriad Pro” can be used by anyone, anywhere. Not only do these 2 typefaces (especially “Minion Pro”) offer a wide number of weights, it also compliments the modular “Maker Giza” typeface.
+
 ![Alphabet](MakerGiza_Alphabet.png)
 
-Choosing the body text came down to convenience, conservation of energy and accessibility. By choosing the default type native to InDesign and Illustrator, typefaces like “Minion Pro” and “Myriad Pro” can be used by anyone, anywhere. Not only do these 2 typefaces (especially “Minion Pro”) offer a wide number of weights, it also compliments the modular “Giza” makeshift typeface.
+"Maker Giza" is named for a new mindset when looking at design; not as designers, but as makers. The notion of a "maker" is rooted in traditional crafts and practices, which is what "Maker Giza" aims to do through its subversion of signage and typographic treatment. 
+
 
 
 
