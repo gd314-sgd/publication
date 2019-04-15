@@ -15,6 +15,7 @@ The first step is to create a logo that would be put up right above the entrance
 Choosing the body text came down to convenience, conservation of energy and accessibility. By choosing the default type native to InDesign and Illustrator, typefaces like “Minion Pro” and “Myriad Pro” can be used by anyone, anywhere. Not only do these 2 typefaces (especially “Minion Pro”) offer a wide number of weights, it also compliments the modular “Maker Giza” typeface.
 
 ![Alphabet](MakerGiza_Alphabet.png)
+![Type Specimen](Screenshot_MakerGiza.png)
 
 "Maker Giza" is named for the role of designer as maker. The notion of a "maker" is rooted in traditional crafts and practices, which is what "Maker Giza" aims to do through its subversion of signage and typographic treatment. 
 
