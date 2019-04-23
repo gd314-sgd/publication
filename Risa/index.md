@@ -22,15 +22,26 @@ From looking at other brands, I considered the specifics:
 
 I started designing a logo based on a brand called Elate that used bamboo casings for its products. I called it Uplift, and it was going to be a knock-off, slightly-better verson of Elate. Eventually, I decided I was wasting time designing a whole new logo for a brand that didn't even extist; I starting thinking about how to make the bamboo idea more sustainable, or even find alternatives.
 
+
+! [Uplift Brand Ideas](upliftscreenshot.png)
+
+My thoughts jumped to "recycling." I found makeup containers made of biodegradable cardboard.
+
+https://www.etsy.com/listing/287475895/eco-eco-friendly-packaging-lip-balm?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=biodegradable+packaging&ref=sr_gallery-1-2&organic_search_click=1&frs=1
+
 Makeup with "natural" ingredients tend to expire faster because of less chemical preservatives in the product. This was pointed out, and the idea was proposed to find containers that broke-down soon after the products started to expire. I found Tomorrow Machine, a studio that created sugar-packaging for food products. The sugar packaging would slowly break-down, creating essentially no waste while effectively protecting the product.
 
 https://www.itsnicethat.com/articles/tomorrow-machine
 
-I want to make clear that "eco-friendly" and "sustainable" are two different descriptions.
+After all this brainstorming I stumbled across actual brands that value sustainablity and live up to this claim. 
 
-A brand like Alima Pure has an admirable dedication to animal cruelty and non-toxic products. According to their website: "Here you’ll find a list of all the ingredients used in Alima Pure cosmetics. Our products are free of parabens, sulfates, phthalates, dimethicone, petroleum, talc, bismuth oxychloride, and nanoparticles. They’re absolutely never tested on animals." 
+https://www.burtsbees.com/           Burt's Bees
+
+https://www.aveda.com/               Aveda
+
+I also found Seed Phytonutrients. They use 70% less plastic than a traditional bottle. And their produtcs are wrapped in a compostable shell. There is a seed packet inside that you can plant when you are done with the bottle. Finally, there is the pump left. You can send it back to them for them to re-use. Unfortunatley, their prices are on the higher end. For example, their Hair and Body Oil is $42 for a 2oz bottle.
+https://www.instagram.com/seedphytonutrients/
+https://www.seedphytonutrients.com/
 
 
-What I didn't consider the specifics of in this project was: an inclusive shade-range, affordable pricing/budgeting to sustain a sustainable brand. Palm oil, powders have a longer shelf life than wet/cream products.
-
--way of life that doesn't prioritize brand names.
+However, what I didn't consider the specifics of in this project was: an inclusive shade-range, affordable pricing/budgeting to sustain a sustainable brand, palm oil, powders have a longer shelf life than wet/cream products and how this might factor into brand sustainablity.
