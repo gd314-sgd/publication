@@ -53,5 +53,7 @@ Shall we keep a collective list of books, etc.?
 
 General info, websites, podcasts, etc. that are worth keeping up with or relying upon to help with information gathering, learning, understanding, whatever.
 
+https://www.ted.com/talks/greta_thunberg_the_disarming_case_to_act_right_now_on_climate
+
 ### Fonts
 - https://www.colophon-foundry.org 
