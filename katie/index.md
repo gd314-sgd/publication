@@ -4,7 +4,7 @@ As a graphic designer, I am not going to invent more efficient technology or cha
 
 I believe this goes beyond the prevailing aesthetic of sustainable design, a term that encompasses a range of products from the genuinely innovative to “green-washed” marketing devices. “Green” products may include those that use less plastic or material overall, are organic, compostable, made from recycled materials, chemical-free, multi-use, reusable, or, are literally green or “natural”-colored. Regardless of what benefit the product actually does or doesn’t have for the environment, it will almost always look a certain way, and communicate a certain story to consumers: that we can keep making and consuming in the same way we always have, but be a little “less bad”<sup>1</sup> about it.
 
-![Green products](/images/green-products.png "Green products")
+![Green products](/katie/images/green-products.png "Green products")
 
 Instead, graphic designers—as well as consumers—must confront the relationship between the things we produce and what we waste. 
 
