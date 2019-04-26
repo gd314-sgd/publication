@@ -1,8 +1,8 @@
---------------------------------------------------------------------------------
-
-title: 'This is the title of our section or page', author: 'Kristian Bjornard - you would put your name in here', category: 'Case Study',
-
---------------------------------------------------------------------------------
+---
+title: 'This is the title of our section or page'
+author: 'Kristian Bjornard - you would put your name in here'
+category: 'Case Study'
+---
 
 # My Main Title
 
@@ -24,6 +24,5 @@ You need to double return paragraphs. If you don't double return it will see thi
 - you just put a hyphen or an asterix
 - at the beginning of a line to make it see things as list items
 
-- A numbered list is the same
-
-- just put numbers
+1. A numbered list is the same
+1. just put numbers
