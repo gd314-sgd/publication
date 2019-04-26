@@ -2,7 +2,7 @@
 
 As a graphic designer, I am not going to invent more efficient technology or change government policy on carbon emissions. Still, designers serve as translators between the organizations that shape our world and the people that live in it. We therefore have the power to do much more than constantly be making new things wrapped in a slick, modern aesthetic. Rather, we can define what sustainable change should look like and communicate the hidden consequences of our consumption.
 
-I believe this goes beyond the popular aesthetic of sustainable design, a term that encompasses a range of products from the genuinely innovative to “green-washed”<sup>1</sup>[^1] marketing devices. “Green” products may include those that use less plastic or material overall, are organic, compostable, made from recycled materials, chemical-free, multi-use, reusable, or, are literally green or “natural”-colored. Regardless of what benefit the product actually does or doesn’t have for the environment, it will almost always look a certain way, and communicate a certain story to consumers: that we can keep making and consuming in the same way we always have, but be a little “less bad”<sup>2</sup> about it.
+I believe this goes beyond the popular aesthetic of sustainable design, a term that encompasses a range of products from the genuinely innovative to “green-washed”<sup>1</sup>[^1] marketing devices. “Green” products may include those that use less plastic or material overall, are organic, compostable, made from recycled materials, chemical-free, multi-use, reusable, or, are literally green or “natural”-colored. Regardless of what benefit the product actually does or doesn’t have for the environment, it will almost always look a certain way, and communicate a certain story to consumers: that we can keep making and consuming in the same way we always have, but be a little “less bad”<sup>2</sup>[^2] about it.
 
 ![Green products](/katie/images/green-products.png "Green products")
 
@@ -22,7 +22,8 @@ Perhaps one step towards change is to truly live with our trash, to let it serve
 
 Repurposed materials carry an added meaning from their past life. This is at least part of the reason why artists and designers have experimented with found materials. In the early twentieth century, Cubists and Dadaists began to work with collage and photomontage and in doing so they referenced and commented on the relatively new technologies of mass media and mechanical reproduction. This technique filtered into graphic design. Through the end of the twentieth century it continued to be explored in unique ways in pop art and punk aesthetics.
 
-![Photomontage by Hannah Höch, 1919, and punk show flyer, 1987](/katie/images/collage-examples.jpg "Photomontage by Hannah Höch, 1919, and punk show flyer, 1987")
+![Photomontage by Hannah Höch and punk show flyer](/katie/images/collage-examples.jpg "Photomontage by Hannah Höch and punk show flyer")
+<caption>Photomontage by Hannah Höch, 1919, and punk show flyer, 1987</caption>
 
 Now that the production of design has moved into an almost entirely digital space, how do we maintain the connection to the materiality of the things we produce, let alone the the people and craft that went into making it? 
 
@@ -40,6 +41,7 @@ I then developed designs and strategies that allowed for printing directly on al
 Instead of inventing new forms, I looked for design waste whose images and messages I could recontextualize. Starting again from the recycling and trash bins of the studio, I picked up scraps of people’s projects that perhaps no longer held value for them. I scanned paper trimmings and let these images dictate a new composition. I used vinyl scraps to form typography and make a stencil to be screen printed. I found fragments of imagery that contained beautiful compositions in themselves that could serve as a base for a poster or publication. Additionally, I looked to products of graphic design on the extreme end of commerce, such as catalogs and circulars, and collaged their messages (BUY SALE NOW!) to serve my own meanings.
 
 ![Examples of trash design work](/katie/images/trash-is-design-gallery.jpg "Examples of trash design work")
+<caption>*Trash is Design* thesis project exhibition</caption>
 
 Many of these experiments did not come out perfectly, or how I envisioned they might. In one experiment, I pulped old projects to recycle into new paper. Though lovely as its own object, the paper was extremely thin and delicate and I was afraid to do anything with it. When I attempted to screen print on used paper that was slightly warped, the paper didn’t align well and stuck to the screen. When overprinting on already-designed paper, I found I had to select the substrate carefully so that it wouldn’t interfere too much with my own design. This project has been a constant learning process, as I discovered that conventional design techniques don’t work the same when a reused material is introduced. I have had to develop my own methods for working around (or embracing) the unexpected results that may happen. 
 
@@ -56,5 +58,5 @@ Making design out of trash—and finding real sustainable solutions—requires i
 #### Notes
 
 [^1]: Greenwashing refers to the practice of companies promoting minor sustainable products or policies in order to mask greater environmental abuses, or making misleading claims about the environmental benefits of a product.
-2. Michael Braungart and William McDonough, *Cradle to Cradle: Remaking the Way We Make Things* (New York: Farrar, Straus and Giroux, 2010), 45.
-3. Michael Thompson, *Rubbish Theory: The Creation and Destruction of Value*. 2nd ed. (London: Pluto Press, 2017), 2-3.
+[^2]: Michael Braungart and William McDonough, *Cradle to Cradle: Remaking the Way We Make Things* (New York: Farrar, Straus and Giroux, 2010), 45.
+[^3]: Michael Thompson, *Rubbish Theory: The Creation and Destruction of Value*. 2nd ed. (London: Pluto Press, 2017), 2-3.
