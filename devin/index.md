@@ -1,5 +1,5 @@
 ## Contingencies in Sustainabilitism
-This essay is a reflection on the contingencies we must acknowledge and address as designers (when I say "designer" I also invoke "artist" and "writer" and "engineer" — I invoke the idea of constrained problem-solving). I will reflect on these contingencies through the lens of digital product design, but the reflections I make apply to the entire domain of design (again, when I say "design," I invoke many other trades, crafts, specializations, and domains of knowledge). But first, we'll take a brief journey through the present state of the Internet.
+This essay is a reflection on the contingencies we must acknowledge and address as designers (and artists, engineers, accountants, whatever you are). I will reflect on these contingencies through the lens of digital product design, but the reflections I make apply to the entire domain of design (when I say "design," I also mean many other trades, crafts, specializations, and domains of knowledge). But first, we'll take a brief journey through the present state of the Internet.
 
 ---
 
@@ -23,9 +23,9 @@ Design is the ultimate substrate for sustainability. Design is the act of asking
 
 The sustainable designer, and the sustainable individual in general, always considers a web of questions before acting on an intuitive or intellectual impulse. They question things in categories such as environmental sustainability, fiscal sustainability, and individual sustainability (physical and mental well-being).
 
-When designing, this question-asking is a crucial step in the design process, because the questions asked work to form the boundaries of the solution space, or the domain of possible solutions to the problem, and in turn work to construct the form of the derived design artifact. If the questions asked include questions of sustainability, the derived design artifact will likely be more sustainable than otherwise.
+This question-asking is a crucial step in the design process, because the questions asked work to form the boundaries of the solution space, or the domain of possible solutions to the problem, and in turn work to construct the form of the derived design artifact. If the questions asked include questions of sustainability, the derived design artifact will likely be more sustainable than otherwise.
 
-In the context of digital product design, sustainability is a tricky thing to define, and the questions we ask as product designers are difficult to think up. During Kristian Bjørnard's Sustainable Design course, I worked on redesigning aspects of a product I had previously designed for a client to make the project more sustainable. The product is a social wish list application called [BuyMeThis](https://buymethis.com/), where users can add products they want to lists and share those lists with others (for example, it could be used for a birthday gift wishlist or a wedding registry). I began the redesign process by asking myself the following questions:
+In the context of digital product design, sustainability is a tricky thing to define, and the questions we ask as product designers are difficult to think up. During Kristian Bjørnard's Sustainable Design course, I worked on redesigning aspects of a product I had previously designed for a client, to make the project more sustainable. The product is a social wish list application called [BuyMeThis](https://buymethis.com/), where users can add products they want to lists and share those lists with others (for example, it could be used for a birthday gift wishlist or a wedding registry). I began the redesign process by asking myself the following questions:
 
 - What does sustainability mean in the context of this project?
 - How can the product be more individually sustainable, more mentally sustainable for the user?
@@ -46,7 +46,7 @@ These are the features I considered altering or introducing as a result of those
 - A user-level sustainability score, based on the averaged sustainability scores of the products purchased by each user, that can be gamified and used to encourage users to buy more products that have higher sustainability scores in order to increase their individual score.
 - User bonuses like discounts and access to additional features based on their sustainability scores.
 
-Ultimately I only had time to focus on the first two of https://buymethis.com/those features: vendor carbon footprints and website hours.
+Ultimately I only had time to focus on the first two of those features: vendor carbon footprints and website hours.
 
 
 ## Website Hours
@@ -54,7 +54,7 @@ Ultimately I only had time to focus on the first two of https://buymethis.com/th
 
 In our era of hyperconsumption and constant attention, we're used to thinking of wesbites as something ethereal and always-on: for reasons I suspect most of us have never considered, we simply expect all websites to always be online and functioning. But this is an unsustainable ideal. For reference, around 2% of global carbon emmissions come from data centers powering the web, a market of which Amazon holds over 40%. Amazon's AWS (Amazon Web Services) hosts around 5% of all websites, which includes major players like Netflix, which accounts for 30–40% of all Internet traffic, depending on your source; additionally, [over 70% of all Internet traffic runs through Amazon's northern Virginia data centers](https://www.nextgov.com/analytics-data/2016/01/70-percent-global-internet-traffic-goes-through-northern-virginia/124976/) at some point in its path. Amazon's AWS infrastructure is composed of around 50% renewable energy sources [as of January 2018](https://aws.amazon.com/about-aws/sustainability/sustainability-timeline/), but a large portion of that energy comes from nuclear power, which is non-renewable but low-emissions. [30% of Amazon's energy usage comes from coal.](https://350seattle.org/amazon/) Statistics on Amazon's actual energy usage and emissions are difficult to find, but according to the [2018 IPCC report](https://iopscience.iop.org/article/10.1088/1748-9326/aaf303), the world's combined energy usage in 2017 led to 36.2 gigatonnes of CO2 emissions (that's 36,200,000,000 tons); if 2% of global emissions come from data centers, that means data centers worldwide emit around 724,000,000 tons of carbon per year; if Amazon owns 40% of the data center market and uses 50% renewable energy, a very conservative estimate of their yearly data center carbon emissions is around 144,800,000 metric tons per year. That's a lot of fucking carbon, and this estimate is most likely wrong and far too low.
 
-Giving websites store hours not only makes running a website more environmentally sustainable, it also forces users to consume content more slowly and at regular times, freeing up their attention and making internte usage more mentally sustainable.
+Giving websites store hours not only makes running a website more environmentally sustainable, it also forces users to consume content more slowly and at regular times, freeing up their attention and making internet usage more mentally sustainable.
 
 ## Vendor Carbon Footprint Warnings
 
