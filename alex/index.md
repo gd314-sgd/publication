@@ -14,6 +14,12 @@ The first step is to create a logo that would be put up right above the entrance
 
 Choosing the body text came down to convenience, conservation of energy and accessibility. By choosing the default type native to InDesign and Illustrator, typefaces like “Minion Pro” and “Myriad Pro” can be used by anyone, anywhere. Not only do these 2 typefaces (especially “Minion Pro”) offer a wide number of weights, it also compliments the modular “Maker Giza” typeface.
 
+Our main resource is time: if there is a way to save/conserve time, then its sustainable. Sustainability doesn't necessarily equate to resources
+from a produciton standpoint 
+Typeface choice is mainly arbitrary other than aesthetic differences. Removing this process 
+
+letters create templates for letterforms but d
+
 ![Alphabet](MakerGiza_Alphabet.png)
 ![Type Specimen](Screenshot_MakerGiza.png)
 
