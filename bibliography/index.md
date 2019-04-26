@@ -46,9 +46,14 @@ Shall we keep a collective list of books, etc.?
 
 ### Other Helpful Texts/Links
 
+- make your own mascara: https://www.youtube.com/watch?v=wRdmsWoO95Y ,  https://www.youtube.com/watch?v=-12VtQ4W6Io
+- make your own ink: https://www.wikihow.com/Make-Ink-from-Tea
+
 ## Resources
 
 General info, websites, podcasts, etc. that are worth keeping up with or relying upon to help with information gathering, learning, understanding, whatever.
+
+https://www.ted.com/talks/greta_thunberg_the_disarming_case_to_act_right_now_on_climate
 
 ### Fonts
 - https://www.colophon-foundry.org 
