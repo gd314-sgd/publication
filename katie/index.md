@@ -22,7 +22,7 @@ Perhaps one step towards change is to truly live with our trash, to let it serve
 
 Repurposed materials carry an added meaning from their past life. This is at least part of the reason why artists and designers have experimented with found materials. In the early twentieth century, Cubists and Dadaists began to work with collage and photomontage and in doing so they referenced and commented on the relatively new technologies of mass media and mechanical reproduction. This technique filtered into graphic design. Through the end of the twentieth century it continued to be explored in unique ways in pop art and punk aesthetics.
 
-![Photomontage by Hannah Höch](/katie/images/hannah-hoch-photomontage.jpg "Photomontage by Hannah Höch")
+![Photomontage by Hannah Höch, 1919, and punk show flyer, 1987](/katie/images/collage-examples.jpg "Photomontage by Hannah Höch, 1919, and punk show flyer, 1987")
 
 Now that the production of design has moved into an almost entirely digital space, how do we maintain the connection to the materiality of the things we produce, let alone the the people and craft that went into making it? 
 
