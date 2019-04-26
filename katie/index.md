@@ -34,7 +34,8 @@ I began to explore this approach when I was trying to visualize the amount of tr
 
 I then developed designs and strategies that allowed for printing directly on already-printed graphics. I also minimized my waste by limiting my color palette, printing patterns instead of solids, and layering text. I explored how a message was affected by the material or image it was printed on, and also speculated about products that could utilize this technique to describe the full lifecycle of a material and object.
 
-![Examples of trash design work]()
+![Example of trash design work](/katie/images/paper-roll-performance.jpg "Example of trash design work")
+![Example of trash design work](/katie/images/paper-roll-posters.jpg "Example of trash design work")
 	
 Instead of inventing new forms, I looked for design waste whose images and messages I could recontextualize. Starting again from the recycling and trash bins of the studio, I picked up scraps of people’s projects that perhaps no longer held value for them. I scanned paper trimmings and let these images dictate a new composition. I used vinyl scraps to form typography and make a stencil to be screen printed. I found fragments of imagery that contained beautiful compositions in themselves that could serve as a base for a poster or publication. Additionally, I looked to products of graphic design on the extreme end of commerce, such as catalogs and circulars, and collaged their messages (BUY SALE NOW!) to serve my own meanings.
 
@@ -55,5 +56,5 @@ Making design out of trash—and finding real sustainable solutions—requires i
 #### Notes
 
 1. Greenwashing refers to the practice of companies promoting minor sustainable products or policies in order to mask greater environmental abuses, or making misleading claims about the environmental benefits of a product.
-2. Michael Braungart and William McDonough, Cradle to Cradle: Remaking the Way We Make Things (New York: Farrar, Straus and Giroux, 2010), 45.
-3. Michael Thompson, Rubbish Theory: The Creation and Destruction of Value. 2nd ed. (London: Pluto Press, 2017), 2-3.
+2. Michael Braungart and William McDonough, *Cradle to Cradle: Remaking the Way We Make Things* (New York: Farrar, Straus and Giroux, 2010), 45.
+3. Michael Thompson, *Rubbish Theory: The Creation and Destruction of Value*. 2nd ed. (London: Pluto Press, 2017), 2-3.
