@@ -23,10 +23,19 @@ The sustainable designer, and the sustainable individual in general, always cons
 
 When designing, this question-asking is a crucial step in the design process, because the questions asked work to form the boundaries of the solution space, or the domain of possible solutions to the problem, and in turn work to construct the form of the derived design artifact. If the questions asked include questions of sustainability, the derived design artifact will likely be more sustainable than otherwise.
 
-In the context of digital product design, sustainability is a tricky thing to define, and the questions we ask as product designers are difficult to think up. During Kristian Bjørnard's Sustainable Design course, I worked on redesigning aspects of a product I had previously designed for a client to make the project more sustainable. The product is a social wish list application, where users can add products they want to lists and share those lists with others (for example, it could be used for a birthday gift wishlist or a wedding registry). I began the redesign process by asking myself the following questions:
+In the context of digital product design, sustainability is a tricky thing to define, and the questions we ask as product designers are difficult to think up. During Kristian Bjørnard's Sustainable Design course, I worked on redesigning aspects of a product I had previously designed for a client to make the project more sustainable. The product is a social wish list application called [BuyMeThis](https://buymethis.com/), where users can add products they want to lists and share those lists with others (for example, it could be used for a birthday gift wishlist or a wedding registry). I began the redesign process by asking myself the following questions:
 
 - What does sustainability mean in the context of this project?
 - How can the product be more individually sustainable, more mentally sustainable for the user?
 - How can the product be made more environmentally friendly through design decisions?
 
-These questions led me to the final question that drove my investigation: How can the product encourage more responsible and sustainable consumption?
+These questions led me to the final question that drove my investigation: *How can the product encourage more responsible and sustainable consumption?* This question led to a set of product/design statements and questions which were answered by a set of design decisions.
+
+- How can I encourage users to consume the application's content more slowly in order to respect their right to attention sustainability?
+- How can I alter the functionality of the product in order to discourage unsustainable consumption?
+- What behaviors am I trying to encourage or discourage in order to make sustainability a primary feature of the product?
+
+These are the features I considered altering or introducing as a result of those questions:
+
+- A suite of small features to discourage buying products from vendors that are known to have a higher footprint than others.
+- Website/store hours, just like a real store, to discourage people from shopping 24/7 and using server energy at unnecessary times.
