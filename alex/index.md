@@ -1,10 +1,14 @@
 # MICA Graphic Design Department Identity
 
+(Work in progress!)
+
+Brand identities rarely have sustainability in mind because 
+
 Assigned by head of the graphic design department, Brockett Horne, I was tasked to create a cohesive visual identity for the department for use on materials such as: signage, online presence and printed collateral. I was given full creativity on the direction of the identity other than 2 requirements: it must relate to the diverse identity of the department and must be “memorable.” 
 
 ![Main signage](MakerGiza_GraphicDesign_Signage.png)
 
-From the beginning I wanted to focus on sustainability and if it can be incorporated into a identity system. In order to full commit to the theme, I set up a number of restrictions: no vinyl, black and white and light ink coverage. (Light ink coverage can be found by going to InDesign >Window >Output >Separations Preview.) (http://www.eggplantstudios.ca/understanding-the-ink-limit/)
+From the beginning I wanted to focus on sustainability and if it can be incorporated into a identity system. In order to full commit to the theme, I set up 2 restrictions: no vinyl and only use black and white.
 
 ![Deconstruction of "Giza" typeface](Deconstruction_0.png)
 
@@ -12,7 +16,9 @@ The first step is to create a logo that would be put up right above the entrance
 
 ![Stencil outline](MakerGiza_StencilOutline.jpg)
 
-Choosing the body text came down to convenience, conservation of energy and accessibility. By choosing the default type native to InDesign and Illustrator, typefaces like “Minion Pro” and “Myriad Pro” can be used by anyone, anywhere. Not only do these 2 typefaces (especially “Minion Pro”) offer a wide number of weights, it also compliments the modular “Maker Giza” typeface.
+Choosing the body text came down to convenience, conservation of energy and accessibility. By choosing the default typeface native to InDesign and Illustrator, typefaces like “Minion Pro” and “Myriad Pro” can be used by anyone, anywhere. Not only do these 2 typefaces (especially “Minion Pro”) offer a wide number of weights, it also compliments the modular “Maker Giza” typeface. 
+
+It might not seem as though choosing typefaces is something to be "sustainable" about, but the truth of the matter is that a main resource we unaccount for is time.  
 
 Our main resource is time: if there is a way to save/conserve time, then its sustainable. Sustainability doesn't necessarily equate to resources
 from a produciton standpoint 
