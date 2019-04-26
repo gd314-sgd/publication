@@ -44,7 +44,7 @@ I also found Seed Phytonutrients. They use 70% less plastic than a traditional b
 https://www.instagram.com/seedphytonutrients/
 https://www.seedphytonutrients.com/
 
-However, what I didn't consider the specifics of in this project was: an inclusive shade-range, affordable pricing/budgeting to sustain a sustainable brand, ingredient sourcing, powders have a longer shelf life than wet/cream products and how this might factor into brand sustainablity.
+However, what I didn't consider the specifics of were: an inclusive shade-range, affordable pricing/budgeting to sustain a sustainable brand, ingredient sourcing, powders have a longer shelf life than wet/cream products and how this might factor into brand sustainablity.
 
 A potential conclusion of this project is that the cosmetics industry as a whole should be done away with. There might be an exception for moisturizers and oils. How much more efficient would it be to solve skin problems with a dermatologist (or creams for a medical use) instead of a magical $70 cream from Sephora to make your skin "firm"? We don't even need shampoo. We can just use soap.
 
