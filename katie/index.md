@@ -2,7 +2,7 @@
 
 As a graphic designer, I am not going to invent more efficient technology or change government policy on carbon emissions. Still, designers serve as translators between the organizations that shape our world and the people that live in it. We therefore have the power to do much more than constantly be making new things wrapped in a slick, modern aesthetic. Rather, we can define what sustainable change should look like and communicate the hidden consequences of our consumption.
 
-I believe this goes beyond the popular aesthetic of sustainable design, a term that encompasses a range of products from the genuinely innovative to “green-washed”<sup>1</sup> marketing devices. “Green” products may include those that use less plastic or material overall, are organic, compostable, made from recycled materials, chemical-free, multi-use, reusable, or, are literally green or “natural”-colored. Regardless of what benefit the product actually does or doesn’t have for the environment, it will almost always look a certain way, and communicate a certain story to consumers: that we can keep making and consuming in the same way we always have, but be a little “less bad”<sup>2</sup> about it.
+I believe this goes beyond the popular aesthetic of sustainable design, a term that encompasses a range of products from the genuinely innovative to “green-washed”<sup>1</sup>[^1] marketing devices. “Green” products may include those that use less plastic or material overall, are organic, compostable, made from recycled materials, chemical-free, multi-use, reusable, or, are literally green or “natural”-colored. Regardless of what benefit the product actually does or doesn’t have for the environment, it will almost always look a certain way, and communicate a certain story to consumers: that we can keep making and consuming in the same way we always have, but be a little “less bad”<sup>2</sup> about it.
 
 ![Green products](/katie/images/green-products.png "Green products")
 
@@ -55,6 +55,6 @@ Making design out of trash—and finding real sustainable solutions—requires i
 
 #### Notes
 
-1. Greenwashing refers to the practice of companies promoting minor sustainable products or policies in order to mask greater environmental abuses, or making misleading claims about the environmental benefits of a product.
+[^1]: Greenwashing refers to the practice of companies promoting minor sustainable products or policies in order to mask greater environmental abuses, or making misleading claims about the environmental benefits of a product.
 2. Michael Braungart and William McDonough, *Cradle to Cradle: Remaking the Way We Make Things* (New York: Farrar, Straus and Giroux, 2010), 45.
 3. Michael Thompson, *Rubbish Theory: The Creation and Destruction of Value*. 2nd ed. (London: Pluto Press, 2017), 2-3.
