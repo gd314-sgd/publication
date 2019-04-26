@@ -49,3 +49,6 @@ Shall we keep a collective list of books, etc.?
 ## Resources
 
 General info, websites, podcasts, etc. that are worth keeping up with or relying upon to help with information gathering, learning, understanding, whatever.
+
+### Fonts
+- https://www.colophon-foundry.org 
