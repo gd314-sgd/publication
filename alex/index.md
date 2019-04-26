@@ -12,8 +12,6 @@ Vinyl is in every way convenient as it is toxic. Vinyl can be used for good, esp
 
 ![Main signage](MakerGiza_GraphicDesign_Signage.png)
 
-This first step is to create a logo/type lockup that would be put up right above the entrance of the department floor. By playing on the subversive and rule-breaking identity 
-
 ![Deconstruction of "Giza" typeface](Deconstruction_0.png)
 
 In order for the brand to connect to the larger scope of the school, but also play on the idea that the department is subversive, I took MICA’s iconic “Giza” typeface and decided to take apart the letters and reconstruct it into an entirely new typeface, playing into the idea of reusing and repurposing digital materials. By doing this, not only does this create interesting opportunities for modular type, but also give form to pattern-making, iconography and wayfinding (arrows). A large stencil would be fashioned so it can be used as a form of permanent signage for the floor.
