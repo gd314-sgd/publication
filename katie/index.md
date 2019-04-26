@@ -49,11 +49,11 @@ Many of these experiments did not come out perfectly, or how I envisioned they m
 
 Making design out of trash—and finding real sustainable solutions—requires inspiration and a determination. As design students about to make your mark on the world, I hope you will take on this challenge. So here are some ideas to think about to help you see your work and the world in a new way:
 
-1. **See your trash.** Count it, arrange it, do what designers do to make information understandable. What can you learn from your trash about who you are, about your process and habits, and where there is room for change?
-2. **Embrace process.** Share your process. Do things slowly and carefully. Figure out how something is made. Then teach someone else how to make it.
-3. **Give up some control.** Many of the forces we must contend with as designers are out of our hands. Rather than trying to bend these forces to our will (and creating many more problems), we can embrace the variability and let that shape our design.
-4. **Don’t forget the context in which we make.** Design is shaped by intermingled social, political, and economic conditions. There is a reason things look the way they do. There is a reason humans are decimating the environment. There is a reason we are okay with what we make becoming trash. None of these are natural or predetermined, which means the way we do things can change.
-5. **Remember that design is a living thing.** As designers, we are responsible for a design's entire life: how it is created, used, and disposed of, and the impact that it will leave behind.
+- **See your trash.** Count it, arrange it, do what designers do to make information understandable. What can you learn from your trash about who you are, about your process and habits, and where there is room for change?
+- **Embrace process.** Share your process. Do things slowly and carefully. Figure out how something is made. Then teach someone else how to make it.
+- **Give up some control.** Many of the forces we must contend with as designers are out of our hands. Rather than trying to bend these forces to our will (and creating many more problems), we can embrace the variability and let that shape our design.
+- **Don’t forget the context in which we make.** Design is shaped by intermingled social, political, and economic conditions. There is a reason things look the way they do. There is a reason humans are decimating the environment. There is a reason we are okay with what we make becoming trash. None of these are natural or predetermined, which means the way we do things can change.
+- **Remember that design is a living thing.** As designers, we are responsible for a design's entire life: how it is created, used, and disposed of, and the impact that it will leave behind.
 
 #### Notes
 
