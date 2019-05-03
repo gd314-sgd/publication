@@ -10,7 +10,7 @@ From looking at other brands, I considered the specifics:
 
 -bamboo casings
 
-vegetable-based inks
+-vegetable-based inks
 
 -biodegradable cardboard packaging
 
