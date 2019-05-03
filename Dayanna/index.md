@@ -29,8 +29,7 @@ I learned that designers do not necesarily have to spend money printing or buyin
 After I finished my sustainable project, one of my classmates told me about Annie Howe, a Baltimore based paper cut artist. She is a graduate of the Maryland Institute College of Art. Her paper cuts are used for a variety of projects including illustration, surface design, and three-dimensional work. I was excited to see all her sustainable work at her website anniehowepapercuts.com 
 
 10.Any images or in process examples you can provide?
-![stickynote:don't betray love](/images/love.jpg)
-Format: ![Alt Text](url)
+![love](https://user-images.githubusercontent.com/42852840/57157818-be3ec580-6daf-11e9-85f9-ff1e51700662.jpg)
 
 11.If you're finishing the project; can you provide final documentation?
 The images will be documented 
