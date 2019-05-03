@@ -33,6 +33,7 @@ I will provide images showing the process and final design of the book.
 
 11.If you're finishing the project; can you provide final documentation?
 The images will be documented 
+:smile:
 
 
 
