@@ -26,7 +26,7 @@ Shall we keep a collective list of books, etc.?
 - [The Era of "Sustainism" is here](https://www.sustainism.com/www.sustainism.com/statement.html). by Michael Schwartz and Joost Elffers
 - When the Worst Comes to the Worst. by Alice Rawsthorn.
 - Super Normal. by Jasper Morrison
-- A Dangerous Breed. by Peter Maxwell
+- [A Dangerous Breed](https://www.readingdesign.org/dangerous-breed). by Peter Maxwell
 - [Can Designers Save the World without creating more stuff?](https://medium.com/@chappelltracker/can-designers-save-the-world-without-creating-more-stuff-f3a6e5272a56) by Chappell Ellison
 - [The Designer's Dilemna](https://www.readingdesign.org/the-designers-dilemma) by Valerie Casey
 
@@ -36,12 +36,12 @@ Shall we keep a collective list of books, etc.?
 
 #### Reading 6: Digital and Physical Applications
 - [Imagining a Solar-Powered internet](https://walkerart.org/magazine/low-tech-magazine-kris-de-decker). by Jas Stefanski
-- Printing and Graphic Design. by Dorotyh Mackenzie
-- Print and Packaging Design, by ReNourish.com
+- Printing and Graphic Design. by Dorothy Mackenzie
+- [Print and Packaging Design](https://re-nourish.org/print-packaging-design/), by ReNourish.com
 - [Towards a Relational Design](https://designobserver.com/feature/towards-relational-design/7557), by Andrew Blauvelt
 
 #### Reading 7: Reframing Outcomes?
-- Eternally Yours: Time in Design, by Ed van hinte, Thonik, et al.
+- [Eternally Yours: Time in Design](http://www.worldcat.org/oclc/58421900), by Ed van hinte, Thonik, et al.
 - The Last Viridian Note, by Bruce Sterling.
 
 ### Other Helpful Texts/Links
