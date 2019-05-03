@@ -2,7 +2,9 @@
 
 # Designing a compostable book
 
-I was approached by a duo of Design Leadership MA students to realize their concept for a plantable workbook about managing grief. It quickly revealed itself to be much more complicated of a project as originally thought—it COULD just be be regular paper with a generic seed-paper cover, but it could also work through many relevant considerations: does regular paper have bleaching elements that would be toxic to soil? Would the seeded paper introduce an invasive species? Could the amount of content be reduced without losing its effect? To the extent possible, I addressed each of these concerns to arrive at a well-considered end result.
+I was approached by a duo of Design Leadership MA students to realize their concept for a plantable workbook about managing grief. It quickly revealed itself to be much more complicated of a project as originally thought—it COULD just be be regular paper with a generic seed-paper cover, but it could also work through many relevant considerations: does regular paper have bleaching elements that would be toxic to soil Would the seeded paper introduce an invasive species? Could the amount of content be reduced without losing its effect? To the extent possible, I addressed each of these concerns to arrive at a well-considered end result.
+
+![Main book spread] (book2.png)
 
 ## Reducing unnecessary content
 
@@ -20,8 +22,18 @@ The result is a lightweight paper with minimal embedded-energy and use of chemic
 
 Regular, petroleum-based ink contains a high amount of 'VOCs'—volatile organic compounds. These can be carcinogenic and toxic to ecosystems. In the case of this book, the ink is very important because it has to be buried into soil—and toxic ink would not be optimal. Vegetable-based ink is a great solution because not only are soybeans and rice bran renewable resources, but the colors are reported to be brighter and more accurate than petroleum-based ink.
 
-Utilizing a Risograph to print the books is perfect: it is energy efficient, while rapidly printing many copies, and uses rice-bran ink.
+Utilizing a Risograph to print the books is perfect: it is energy efficient, while rapidly printing many copies, and uses rice-bran ink. The Risograph works by burning a master copy of a single page and rapidly printing copies by the use of a single-color ink drum.
+
+![Book setup diagram] (book.png)
 
 ## Design decisions
 
 For a book that relies on inspiring writing prompts, the typography is important. I selected Domaine Text Light, a thin serif with a natural, sensitive feel. Anything that isn't a writing prompt is typeset in the normal style of the font, while prompts are set with an underline—indicating the griever's action.
+
+The book arrives in a reusable kraft paper envelope, and comes with a charcoal stick to write with. Including the charcoal stick not only avoids the use of a toxic ink pen, but acts as a fertilizer once the book is planted!
+
+## Conclusion
+
+After this significant amount of research,'Living Grief' is now ready to enter production. We will print the internal pages with the Risograph, and use a wholesale seed paper manufacturer for the cover. 'Seedlings' offers a variety of seed types, one of which is Black Eyed Susan—perfect for initial distribution in Maryland.
+
+Can't wait to plant the first copy and watch new life grow!
