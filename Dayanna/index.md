@@ -30,6 +30,9 @@ After I finished my sustainable project, one of my classmates told me about Anni
 
 10.Any images or in process examples you can provide?
 ![love](https://user-images.githubusercontent.com/42852840/57157818-be3ec580-6daf-11e9-85f9-ff1e51700662.jpg)
+![focus](https://user-images.githubusercontent.com/42852840/57158061-6eacc980-6db0-11e9-9c9d-25bce218f0a0.jpg)
+![makeangerangry](https://user-images.githubusercontent.com/42852840/57158067-71a7ba00-6db0-11e9-9886-fd618d218832.jpg)
+
 
 11.If you're finishing the project; can you provide final documentation?
 The images will be documented 
