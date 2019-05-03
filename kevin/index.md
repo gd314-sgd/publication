@@ -4,6 +4,8 @@
 
 I was approached by a duo of Design Leadership MA students to realize their concept for a plantable workbook about managing grief. It quickly revealed itself to be much more complicated of a project as originally thought—it COULD just be be regular paper with a generic seed-paper cover, but it could also work through many relevant considerations: does regular paper have bleaching elements that would be toxic to soil Would the seeded paper introduce an invasive species? Could the amount of content be reduced without losing its effect? To the extent possible, I addressed each of these concerns to arrive at a well-considered end result.
 
+![Main book spread] (book2.png)
+
 ## Reducing unnecessary content
 
 The first step was editing down the lengthy amount of written content—a good amount of it was unnecessary to the piece as a whole, and for an object that needs to fully decompose, less material is optimal. The original makers of the book were totally open to having the book edited, which helped a lot. Once I removed content that wasn’t necessary to the overall theme of the book (managing grief in a healthy and productive way), I began researching how paper decomposes. This book—‘Root and Branch’—is intended to be planted after working through it, and will grow something new in return. A beautiful metaphor. However, for that to happen successfully, the paper has to be just right.
@@ -21,6 +23,8 @@ The result is a lightweight paper with minimal embedded-energy and use of chemic
 Regular, petroleum-based ink contains a high amount of 'VOCs'—volatile organic compounds. These can be carcinogenic and toxic to ecosystems. In the case of this book, the ink is very important because it has to be buried into soil—and toxic ink would not be optimal. Vegetable-based ink is a great solution because not only are soybeans and rice bran renewable resources, but the colors are reported to be brighter and more accurate than petroleum-based ink.
 
 Utilizing a Risograph to print the books is perfect: it is energy efficient, while rapidly printing many copies, and uses rice-bran ink. The Risograph works by burning a master copy of a single page and rapidly printing copies by the use of a single-color ink drum.
+
+![Book setup diagram] (book.png)
 
 ## Design decisions
 
