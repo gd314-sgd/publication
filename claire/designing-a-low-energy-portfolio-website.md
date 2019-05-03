@@ -1,4 +1,10 @@
-#Sustainable Portfolio Website
+---
+title: Designing a Low-Energy Portfolio Website
+author: Claire Evans
+theme: Webdesign
+---
+
+#Designing a Low-Energy Portfolio Website
 ##Claire Evans | 2019
 
 I started making my own portfolio website on Adobe's portfolio feature, thankful that I would not have to spend more money on a domain and server account, as well as the already coded templates—simple and easy. However, I know very little about the ways of the web, the way that you are supposed to optimize images to decrease the file sizes, and the way the servers have to send information back and forth constantly in order to load content onto a site. So, I embraced my large images, ability to put as much content as I would want on the site, and the amazing animation features that work throughout the site that would be difficult for me to learn myself.
@@ -19,7 +25,7 @@ Having an online portfolio as an artist nowadays is a given. But think of all of
 
 ##Online Portfolio Considerations
 
-![Original portfolio website](Original_Website.jpg)
+![Original portfolio website](/publication/assets/img/claire/Original_Website.jpg)
 
 My goal was to create a more sustainable, less energy consuming website, and in order to ensure it would in fact be more sustainable, I had to code it myself.  Content needed to go down. For starters, I had to think more philosophically about the point of the portfolio website. What do I absolutely need to include? What can I take out? Who are my viewers, what are they looking for, and what do they need to see? The people looking at my website are people that I am specifically applying to for an internship (or job in the future). They want to see my work and my abilities. They are people not trying to find someone to commission work which is why I got rid of a contact page and about me page. I can explain the "about me" section in my cover letter to them or in an interview with them. It was not necessary, so I replaced it with a small list of my skills—the necessary barebones. And down the line if I feel that I need it, I will add it in.
 
