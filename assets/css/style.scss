@@ -15,6 +15,10 @@ body {
 	font-size: 20px;
 }
 
+h4 {
+	font-size: 16px;
+}
+
 main {
 	padding: 1rem;
 }
@@ -88,5 +92,12 @@ a {
 		width: 100%;
 		font-size: 16px;
 		padding-top: 0.5em;
+	}
+}
+
+.entry__content {
+	p {
+		max-width: 36em;
+    width: 80%;
 	}
 }
