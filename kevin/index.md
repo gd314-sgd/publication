@@ -2,7 +2,7 @@
 
 # Designing a compostable book
 
-I was approached by a duo of Design Leadership MA students to realize their concept for a plantable workbook about managing grief. It quickly revealed itself to be much more complicated of a project as originally thought—it COULD just be be regular paper with a generic seed-paper cover, but it could also work through many relevant considerations: does regular paper have bleaching elements that would be toxic to soil? Would the seeded paper introduce an invasive species? Could the amount of content be reduced without losing its effect? To the extent possible, I addressed each of these concerns to arrive at a well-considered end result.
+I was approached by a duo of Design Leadership MA students to realize their concept for a plantable workbook about managing grief. It quickly revealed itself to be much more complicated of a project as originally thought—it COULD just be be regular paper with a generic seed-paper cover, but it could also work through many relevant considerations: does regular paper have bleaching elements that would be toxic to soil Would the seeded paper introduce an invasive species? Could the amount of content be reduced without losing its effect? To the extent possible, I addressed each of these concerns to arrive at a well-considered end result.
 
 ## Reducing unnecessary content
 
@@ -21,6 +21,7 @@ The result is a lightweight paper with minimal embedded-energy and use of chemic
 Regular, petroleum-based ink contains a high amount of 'VOCs'—volatile organic compounds. These can be carcinogenic and toxic to ecosystems. In the case of this book, the ink is very important because it has to be buried into soil—and toxic ink would not be optimal. Vegetable-based ink is a great solution because not only are soybeans and rice bran renewable resources, but the colors are reported to be brighter and more accurate than petroleum-based ink.
 
 Utilizing a Risograph to print the books is perfect: it is energy efficient, while rapidly printing many copies, and uses rice-bran ink.
+<!-- maybe more about the process of risograph and possible downsides, thinking about the fact people reading it may not know what the riso does and how it differs from digital printers -->
 
 ## Design decisions
 
