@@ -1,6 +1,5 @@
 # MICA Graphic Design Department Identity
 
-(include current brand--vinyl + other)
 (include notes from presentation--how it was received)
 (include the real-world implication--with a client) 
 
@@ -15,10 +14,15 @@ Vinyl is in every way convenient as it is toxic. Vinyl can be used for good, esp
 # Intro: 2017–2019 Previous Department Identity
 The previous identity was based on the revitalization of Hobo, a typeface that over the years became an often maligned typeface that slowly degraded in credit and appreciation within designers. This is mostly due to the change of tastes in recent years from one-hit/display typefaces to more malleable ones. James Edmondson, typeface designer and previous deisgner of the department identity, made a new typeface called "Hobeaux" to challenge and revitalize and modernize the "glory" of the Hobo's unnatural but unique curves.
 
-As you can tell from these photos, this identity didn't consider vinyl in mind; in fact it might've embraced it too much to the point of overindulgence. 
+![2017–2019 Signage](Hobeaux_1.jpg)(Hobeaux_2.jpg)(Hobeaux_3.jpg)(Hobeaux_4.jpg)(Hobeaux_5.jpg)
+
+As you can tell from these photos, this identity didn't consider vinyl in mind; in fact it might've embraced it too much to the point of overindulgence. The accessory of the added borders around all signage added more to the identity of Hobeaux, but 
+But don't think of this as something inherently terrible. 
 
 
+![2017–2019 Collateral](WSChecklist.jpg)(ResourceGuide_Scholarships_Update.jpg)
 
+# Consideration: 2019–??? Current Department Identity Prompt
 ![Main signage](MakerGiza_GraphicDesign_Signage.png)
 
 ![Deconstruction of "Giza" typeface](Deconstruction_0.png)
