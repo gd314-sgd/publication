@@ -1,0 +1,19 @@
+---
+title: Home
+---
+<div class="archive">
+  <div class="archive__headings">
+    <div class="archive__headings__title">Title</div><div class="archive__headings__theme">Theme</div>
+  </div>
+  <div class="archive__entries">
+    {% for entry in site.entries %}
+      <div class="archive__entries__entry">
+        <div class="archive__headings__title">
+          <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
+        </div><div class="archive__headings__theme">
+          {{ entry.theme }}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
