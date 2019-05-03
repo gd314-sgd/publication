@@ -8,7 +8,7 @@ An Australia based non-profit organization that advocated for more sustainable g
 Published a book called Design to Renourish, written by Eric Benson and Yvette Perullo. It is a book written for graphic designers that, "helps to integrate sustainbility into their workflow through design process called systems thinking. This process asks the graphic designer to approach a design problem by being more informed and aware of and influenced by the impacts that materials and vendor choices have on one another, the planet, and consequently on us" (https://re-nourish.org/design-to-renourish/).
 
 ###Project Example
-![alt text](Renourish.jpg)
+![boxes and cards on a table with colored bird patterned paper](Renourish.jpg)
 Renourish designed sustainable greeting cards that would benefit the non-profit organization, Trees for Life, in Australia that works to plant native trees. For this project they used 100% post-consumer recycled paper for both the cards and the envelopes. The envelopes were also unbleached. They used vegetable based inks, used digital to plate printing and worked to decrease water consumption. They designed the packaging to show the card designs through a cut out window, eliminating the use of plastic. They worked have the project carbon neutral by offsetting the amount of greenhouse gas emissions produced with Green power. Through their efforts, they were able to donate enough money to Trees for Life to plant over 40,000 trees. 
 
 ## Futerra
@@ -51,7 +51,9 @@ Started by Susannah Sayler and Edward Morris, this team produces art and media s
 They create works for this cause alone ranging from climate change, species extinction, and food and water resources. For their projects they work collaboratively with artists, designers, scientists, writers, and volunteers. 
 
 
-![alt text](imageurl)
+![alt text](Canary-project1)
+![alt text](Canary-project2)
+
 ###Project Example
 High Water Line: A public artwork in NYC that marked the water line of 10 feet above-sea level across 70 miles of New York City's waterfront in order to show the effect of climate change. The marks represent how much flooding could take place if climate change continues. Eve Mosher walked the 70 miles and was able to talk to people along the way about climate change, spreading information in that way. 
 
@@ -60,6 +62,7 @@ High Water Line: A public artwork in NYC that marked the water line of 10 feet a
 ## La Page Original
 
 ###Who They Are
+A visual communication studeio that began in 1991 and specialize in social communication with institutions and businesses alike. They focus on creativity, community effectiveness, responsbility, quality, and sustainability. They work on a range of types of projects including communication plans, corpoate images and branding, editorial design, produce catalogs, global production process, and web projects.
 
 ###What They Do Differently
 They focus on the full life cycle of every product they make, and they place close attention to any waste created. They use a 5 step plan to make sure that they are being as sustainable as possible. 1. End life: they work to use recycled materials or use materials that are completely recyclable. 2: Usability and user experience: in what ways can they reduce resources and achieve their end goal. 3. Profile producing companies: using production companies that use environmentally safe processes. 4. Edo-design strategies: making design decisions that have less impact such as material choice, waste decreasing forms, inks, and how things join or finish (not using something like glue which makes the material unrecyclable at the end). 5. Change agents: designing to promote more sustainable behaviors from the consumers or clients.
@@ -71,5 +74,5 @@ Stone-Paper: They launched an experiment to print a calendar on paper made of st
 
 ###Project Example
 ![alt text](lapage2.jpg)
-Squid Ink: 
+Squid Ink: La Page Original held a workshop with students from Pau Gargallo School with ecodesign as their focus. They were tasked with creating a product that would liven their city while being sustainable at the same time. They decided screen print a graphic with the recipe to a famous dish in their local town. They worked with squid ink, a safe ink that is edible but was difficult to work with. They were successful with their project however.
 
