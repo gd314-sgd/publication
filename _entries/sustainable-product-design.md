@@ -5,4 +5,4 @@ theme: Digital Design
 ---
 Here is an image:
 
-![Store Hours]({{ '/assets/img/sustainable-product-design/closed.png' | relative_url }} "Logo Title Text 1")
+![Store Hours]({{ '/assets/img/devin/closed.png' | relative_url }} "Logo Title Text 1")
