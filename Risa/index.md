@@ -41,7 +41,7 @@ https://www.aveda.com/               Aveda
 
 I also found Seed Phytonutrients. They use 70% less plastic than a traditional bottle. And their produtcs are wrapped in a compostable shell. There is a seed packet inside that you can plant when you are done with the bottle. Finally, there is the pump left. You can send it back to them for them to re-use. Essentially, the product is contained in a hard plastic bag, with a shaped, compostable outer shell to protect. They have hair/ body products but no makeup. Unfortunatley, their prices are on the higher end. For example, their Hair and Body Oil is $42 for a 2oz bottle.
 
-https://www.instagram.com/seedphytonutrients/
+<a href= "https://www.instagram.com/seedphytonutrients/" target="_blank">instagram Phytonutients</a>
 https://www.seedphytonutrients.com/
 
 However, what I didn't consider the specifics of were: an inclusive shade-range, affordable pricing/budgeting to sustain a sustainable brand, ingredient sourcing, powders have a longer shelf life than wet/cream products and how this might factor into brand sustainablity.
