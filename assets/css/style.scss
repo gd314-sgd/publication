@@ -20,6 +20,10 @@ main {
 }
 
 header {
+	margin-bottom: 2em;
+	padding-bottom: 1em;
+	border-bottom: 1px solid black;
+		
 	nav {
 		ul {
 			li {
@@ -38,17 +42,51 @@ a {
 	border-bottom: 1px solid;
 }
 
-.archive__headings,
+.archive__headings {
+	div {
+		float: left;
+		padding-bottom: 0.5em;
+	}
+
+	@media (max-width: 700px) {
+		display: none;
+	}
+}
+
 .archive__entries__entry {
 	div {
-		display: inline-block;
+		float: left;
+
+		@media (max-width: 700px) {
+			float: none;
+		}
+	}
+}
+
+.archive__headings__title {
+	width: 60%;
+
+	@media (max-width: 700px) {
+		width: 100%;
+	}
+}
+
+.archive__headings__author {
+	width: 20%;
+
+	@media (max-width: 700px) {
+		width: 100%;
+		font-size: 16px;
+		padding-bottom: 0.5em;
 	}
 }
 
 .archive__headings__theme {
 	width: 20%;
-}
 
-.archive__headings__title {
-	width: 80%;
+	@media (max-width: 700px) {
+		width: 100%;
+		font-size: 16px;
+		padding-top: 0.5em;
+	}
 }
