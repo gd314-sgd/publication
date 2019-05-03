@@ -25,8 +25,6 @@ vegetable-based inks
 I started designing a logo based on a brand called Elate that used bamboo casings for its products. I called it Uplift, and it was going to be a knock-off, slightly-better verson of Elate. Eventually, I decided I was wasting time designing a whole new logo for a brand that didn't even extist; I starting thinking about how to make the bamboo idea more sustainable, or even find alternatives.
 
 
-! [Uplift Brand Ideas](upliftscreenshot.png)
-
 My thoughts jumped to "recycling." I found makeup containers made of biodegradable cardboard.
 
 https://www.etsy.com/listing/287475895/eco-eco-friendly-packaging-lip-balm?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=biodegradable+packaging&ref=sr_gallery-1-2&organic_search_click=1&frs=1
