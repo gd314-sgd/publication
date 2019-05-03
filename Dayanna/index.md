@@ -34,10 +34,6 @@ After I finished my sustainable project, one of my classmates told me about Anni
 ![makeangerangry](https://user-images.githubusercontent.com/42852840/57158067-71a7ba00-6db0-11e9-9886-fd618d218832.jpg)
 
 
-11.If you're finishing the project; can you provide final documentation?
-The images will be documented 
-
-
 
 
 ---
