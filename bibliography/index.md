@@ -8,7 +8,7 @@ Shall we keep a collective list of books, etc.?
 ### Required Class Readings
 
 #### Reading 1: Waste = Food
-- Waste Equals Food. from [_Cradle to Cradle_](http://www.worldcat.org/oclc/643617322), by Michael Braungart and William McDonough
+- Waste Equals Food. from [_Cradle to Cradle_](http://www.worldcat.org/oclc/1081333758), by Michael Braungart and William McDonough
 - Disposability, Graphic Design, Style, and Waste. by Karrie Jacobs
 
 #### Reading 2: A Mindset
