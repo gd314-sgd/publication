@@ -1,15 +1,26 @@
 # MICA Graphic Design Department Identity
 
-Assigned by head of the graphic design department, Brockett Horne, I was tasked to create a cohesive visual identity for the department for use on materials such as: signage, online presence and printed collateral. I was given full creativity on the direction of the identity other than 2 requirements: it must relate to the diverse identity of the department and must be “memorable.” 
+Brand identities rarely have sustainability in mind. They are meant to provide a cohesive "image" to corporate entities and be able to hold this image for a certain number of years until it goes out of fashion, usually to be replaced with another trendy direction. MICA's Graphic Design Department often switches up their image every 2/3 years. Our department's image is very unsustainable, but that's part of the existing "brand" the department assigned itself: a brand that embraces change and subversion, be it for better or worse. If designed well, a brand can last as long as the entity exists (which could be for decades to centuries) -- or the ephemerality can be embraced.
 
-![Text description of image](imagefilename.jpg)
+As designers, we often have little control and are subservient to our client's wishes. However, with enough conviction, we can use this opportunity to educate. This term I was currently working on rebranding the MICA graphic design department. Fortunately, I was given free range to do anything, provided I create signage and print collateral and connect the identity to the department's ever-changing image. By creating this identity, I hope to bring to light that sustainable measures in designing a brand can exist and be substitutes as healthy alternatives to the status quo (alternatives to vinyl, etc.).
 
-From the beginning I wanted to focus on sustainability and if it can be incorporated into a identity system. In order to full commit to the theme, I set up a number of restrictions: no vinyl, black and white and light ink coverage. (Light ink coverage can be found by going to InDesign >Window >Output >Separations Preview.) (http://www.eggplantstudios.ca/understanding-the-ink-limit/)
+My first course of action is to set one, large restriction: no vinyl whatsoever. Vinyl contains a chemical called PVC (Polyvinyl chloride), which when discarded, releases mercury, lead, and cadmium, contaminating soil and water sources. PVC is not degradable and retains its form for centuries. 
 
-The first step is to create a logo that would be put up right above the entrance of the department floor. In order for the brand to connect to the larger scope of the school, but also play on the idea that the department is subversive and rule-breaking, I took one of MICA’s iconic “Giza” typeface and decided to take apart the letters and reconstruct it into an entirely new typeface, playing into the idea of reusing and repurposing digital materials. By doing this, not only does this create interesting opportunities for modular type, but also give form to pattern-making, iconography and wayfinding (arrows). A large stencil would be fashioned so it can be used as a form of permanent signage for the floor but also as a substitute for exhibition signage in Bronze Gallery. 
+Vinyl is in every way convenient as it is toxic. Vinyl can be used for good, especially as permanent signage (since it sticks so well to most anything and degrades so slowly), but we often use vinyl lettering for exhibitions lasting no more than a month or so. Considering that the MICA GD identity is mostly signage and print-based, figuring out how to redirect signage into other mediums was a crucial first step.
 
-Choosing the body text came down to convenience, conservation of energy and accessibility. By choosing the default type native to InDesign and Illustrator, typefaces like “Minion Pro” and “Myriad Pro” can be used by anyone, anywhere. Not only do these 2 typefaces (especially “Minion Pro”) offer a wide number of weights, it also compliments the modular “Giza” makeshift typeface.
+![Main signage](MakerGiza_GraphicDesign_Signage.png)
 
+![Deconstruction of "Giza" typeface](Deconstruction_0.png)
 
+In order for the brand to connect to the larger scope of the school, but also play on the idea that the department is subversive, I took MICA’s iconic “Giza” typeface and took apart the letters. I then reconstructed the pieces into an entirely new typeface, playing into the idea of reusing and repurposing digital materials. By doing this, not only does this create interesting opportunities for modular type, but also give form to pattern-making, iconography and wayfinding (arrows). Large stencils were fashioned so the lettering can be used as a form of permanent signage for the floor.
 
+This new typeface is called "Maker Giza," playying on the new role of "designer as maker." The notion of a "maker" is rooted in traditional crafts and practices, which is what "Maker Giza" aims to do through its subversion of signage and typographic treatment. 
 
+![Stencil outline](MakerGiza_StencilOutline.jpg)
+
+Figuring out the signage naturally led into creating a typeface in order to maintain consistency for print deliverables.  Choosing the body text came down to convenience, conservation of energy and accessibility. By choosing the default typeface native to InDesign and Illustrator, typefaces like “Minion Pro” and “Myriad Pro” can be used by anyone, anywhere with Creative Cloud. Not only do these 2 typefaces (especially “Minion Pro”) offer a wide number of weights, they also compliment the modular “Maker Giza” typeface with their humanistic undertones. 
+
+It might not seem as though choosing typefaces is something to be "sustainable" about, but we often forget that saving time is just as sustainable as conserving materials and energy. Sustainability doesn't necessarily equate to resources but rather sustainable design practices and productions. Our main resource is time, and if there is a way to save/conserve time, then its sustainable. Typeface choice is mainly arbitrary other than for aesthetic differences. Removing this process would clear time to conserve energy for more important tasks (or just to finally relax!).
+
+![Alphabet](MakerGiza_Alphabet.png)
+![Type Specimen](Screenshot_MakerGiza.png)
