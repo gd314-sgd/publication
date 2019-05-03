@@ -2,7 +2,7 @@
 
 # Designing a compostable book
 
-I was approached by a duo of Design Leadership MA students to realize their concept for a plantable workbook about managing grief. It quickly revealed itself to be much more complicated of a project as originally thought—it COULD just be be regular paper with a generic seed-paper cover, but it could also work through many relevant considerations: does regular paper have bleaching elements that would be toxic to soil? Would the seeded paper introduce an invasive species? Could the amount of content be reduced without losing its effect? To the extent possible, I addressed each of these concerns to arrive at a well-considered end result.
+I was approached by a duo of Design Leadership MA students to realize their concept for a plantable workbook about managing grief. It quickly revealed itself to be much more complicated of a project as originally thought—it COULD just be be regular paper with a generic seed-paper cover, but it could also work through many relevant considerations: does regular paper have bleaching elements that would be toxic to soil Would the seeded paper introduce an invasive species? Could the amount of content be reduced without losing its effect? To the extent possible, I addressed each of these concerns to arrive at a well-considered end result.
 
 ## Reducing unnecessary content
 
