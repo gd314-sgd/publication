@@ -1,5 +1,9 @@
 # MICA Graphic Design Department Identity
 
+(include current brand--vinyl + other)
+(include notes from presentation--how it was received)
+(include the real-world implication--with a client) 
+
 Brand identities rarely have sustainability in mind. They are meant to provide a cohesive "image" to corporate entities and be able to hold this image for a certain number of years until it goes out of fashion, usually to be replaced with another trendy direction. MICA's Graphic Design Department often switches up their image every 2/3 years. Our department's image is very unsustainable, but that's part of the existing "brand" the department assigned itself: a brand that embraces change and subversion, be it for better or worse. If designed well, a brand can last as long as the entity exists (which could be for decades to centuries) -- or the ephemerality can be embraced.
 
 As designers, we often have little control and are subservient to our client's wishes. However, with enough conviction, we can use this opportunity to educate. This term I was currently working on rebranding the MICA graphic design department. Fortunately, I was given free range to do anything, provided I create signage and print collateral and connect the identity to the department's ever-changing image. By creating this identity, I hope to bring to light that sustainable measures in designing a brand can exist and be substitutes as healthy alternatives to the status quo (alternatives to vinyl, etc.).
@@ -7,6 +11,13 @@ As designers, we often have little control and are subservient to our client's w
 My first course of action is to set one, large restriction: no vinyl whatsoever. Vinyl contains a chemical called PVC (Polyvinyl chloride), which when discarded, releases mercury, lead, and cadmium, contaminating soil and water sources. PVC is not degradable and retains its form for centuries. 
 
 Vinyl is in every way convenient as it is toxic. Vinyl can be used for good, especially as permanent signage (since it sticks so well to most anything and degrades so slowly), but we often use vinyl lettering for exhibitions lasting no more than a month or so. Considering that the MICA GD identity is mostly signage and print-based, figuring out how to redirect signage into other mediums was a crucial first step.
+
+# Intro: 2017–2019 Previous Department Identity
+The previous identity was based on the revitalization of Hobo, a typeface that over the years became an often maligned typeface that slowly degraded in credit and appreciation within designers. This is mostly due to the change of tastes in recent years from one-hit/display typefaces to more malleable ones. James Edmondson, typeface designer and previous deisgner of the department identity, made a new typeface called "Hobeaux" to challenge and revitalize and modernize the "glory" of the Hobo's unnatural but unique curves.
+
+As you can tell from these photos, this identity didn't consider vinyl in mind; in fact it might've embraced it too much to the point of overindulgence. 
+
+
 
 ![Main signage](MakerGiza_GraphicDesign_Signage.png)
 
