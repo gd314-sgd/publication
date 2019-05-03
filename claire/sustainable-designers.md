@@ -8,7 +8,7 @@ An Australia based non-profit organization that advocated for more sustainable g
 Published a book called Design to Renourish, written by Eric Benson and Yvette Perullo. It is a book written for graphic designers that, "helps to integrate sustainbility into their workflow through design process called systems thinking. This process asks the graphic designer to approach a design problem by being more informed and aware of and influenced by the impacts that materials and vendor choices have on one another, the planet, and consequently on us" (https://re-nourish.org/design-to-renourish/).
 
 ###Project Example
-![boxes and cards on a table with colored bird patterned paper](Renourish.jpg)
+![boxes and cards on a table with colored bird patterned paper](/publication/assets/img/claire/Renourish.jpg)
 Renourish designed sustainable greeting cards that would benefit the non-profit organization, Trees for Life, in Australia that works to plant native trees. For this project they used 100% post-consumer recycled paper for both the cards and the envelopes. The envelopes were also unbleached. They used vegetable based inks, used digital to plate printing and worked to decrease water consumption. They designed the packaging to show the card designs through a cut out window, eliminating the use of plastic. They worked have the project carbon neutral by offsetting the amount of greenhouse gas emissions produced with Green power. Through their efforts, they were able to donate enough money to Trees for Life to plant over 40,000 trees. 
 
 ## Futerra
@@ -19,9 +19,9 @@ They are majority owned and led by a group of women, and they are one the United
 
 They created a "Selling Sustainability" open-source guide for businesses that explains the importance of moving towards sustainability,  what the challenges are in branding sustainability, and how you can overcome them. They even have a section on how to avoid "Greenwashing," or over-glamorizing their "eco-friendly" product that may only have one sustainable attribute such as using less ink on the packaging and calling yourself sustainable. 
 
-![a man in a wet suit next to a small motor boat on a lake with the caption, "my wild life."](futerra1.jpg)
-![an excited young boy on a rock in a lake holding a crab with the caption, "my show and tell."](futerra2.jpg)
-![a smiling young woman next to a canal holding a trash bag with the caption, "my city break."](futerra3.jpg)
+![a man in a wet suit next to a small motor boat on a lake with the caption, "my wild life."](/publication/assets/img/claire/futerra1.jpg)
+![an excited young boy on a rock in a lake holding a crab with the caption, "my show and tell."](/publication/assets/img/claire/futerra2.jpg)
+![a smiling young woman next to a canal holding a trash bag with the caption, "my city break."](/publication/assets/img/claire/futerra3.jpg)
 ###Project Example
 The Wildlife Trusts: This charity, The Wildlife Trusts, has 800,000 members dedicated to save the existing nature in the United Kingdom. They decided to hold a campaign to make more people in the UK understand the importance and value of nature in the nation. The Futerra design group created a campaign website, short-films, workshops, and print and social media designs. They created a series of images of people a part of the Wildlife trust who regularly enjoy nature and the activities they do in nature, emphasizing the importance of nature in their lives. The slogan used throughout was "my wildlife," and filling in the wildlife with catchphrases related to their activity. They received 200,000 views on their videos, 27,000 new members that will help to contribute more funds, and 325,000 sessions on their website. This campaign helped to initiate more care and awareness on the nature that is left in their nation, and strived to change people's attitudes towards it. I am unsure if their design practices in the process strived to make sustainable choices such as using nontoxic inks; however, this work and the rest of their work campaigns people for more environmental sustainability awareness and understanding in people's everyday lives. 
 
@@ -34,9 +34,9 @@ They work to be a sustainable company not just for their clients, but also in th
 
 They create sustainability reports for their clients, allowing there to be transparency for consumers, and giving the companies a tangible understanding and feeling of change. They also acknowledge the entire lifespan of the products they create and work to 
 
-![an image scan of an open book with environmental statitics](Modern_Species1.jpg)
-![an image scan of an open book with Organic Valley's vision for sustainability mission](Modern_Species2.jpg)
-![image scan of open book with ways Organic Valley is sustainable on their farm](Modern_Species3.jpg)
+![an image scan of an open book with environmental statitics](/publication/assets/img/claire/Modern_Species1.jpg)
+![an image scan of an open book with Organic Valley's vision for sustainability mission](/publication/assets/img/claire/Modern_Species2.jpg)
+![image scan of open book with ways Organic Valley is sustainable on their farm](/publication/assets/img/claire/Modern_Species3.jpg)
 ###Project Example
 Sustainability Report for Organic Valley Farms: They created a magazine brochure to release their sustainability report and created their campaign graphics and sales representation and handout. Thought the final product does not look different from other design projects, they were able to save 2,093 pounds of greenhouse gases by using post-consumer recycled paper. They saved 40-60% of the end project's budget by designing the content to fit the press sheets and having a cover with the same paper as the book's content. They used vegetable based UV inks that are low-VOC, and the paper used was certified by the Forest, Stewardship Counsel. The remarkable thing about this project is that they achieved all of these goals without the final product looking any different from other designs that meet none of these sustainability standards. It is up to us to care and make it happen. 
 
@@ -51,8 +51,8 @@ Started by Susannah Sayler and Edward Morris, this team produces art and media s
 They create works for this cause alone ranging from climate change, species extinction, and food and water resources. For their projects they work collaboratively with artists, designers, scientists, writers, and volunteers. 
 
 
-![alt text](Canary-project1)
-![alt text](Canary-project2)
+![alt text](/publication/assets/img/claire/Canary-project1)
+![alt text](/publication/assets/img/claire/Canary-project2)
 
 ###Project Example
 High Water Line: A public artwork in NYC that marked the water line of 10 feet above-sea level across 70 miles of New York City's waterfront in order to show the effect of climate change. The marks represent how much flooding could take place if climate change continues. Eve Mosher walked the 70 miles and was able to talk to people along the way about climate change, spreading information in that way. 
@@ -69,10 +69,10 @@ They focus on the full life cycle of every product they make, and they place clo
 
 
 ###Project Example
-![an upright calendar with a large, black hexagonal printed pattern](lapage.jpg)
+![an upright calendar with a large, black hexagonal printed pattern](/publication/assets/img/claire/lapage.jpg)
 Stone-Paper: They launched an experiment to print a calendar on paper made of stone. Calendar's only last one year until you have to buy another one, so they wanted a paper that would be able to biodegrade with that lifespan in mind. What they found was that the stone paper left in the studio remained in good condition and intact after a year. They left other sheets outside to be affected by rain, weather, heat, cold, etc for one year. The paper left outside overtime broke down and crumpled as if it were plaster and was then able to degrade. The production of stone paper releases 50% less carbon dioxide than tree paper. The downside was that the production time was slower (although is this really a downside in the sense of sustainability?). In addition, it required no water or toxic chemicals to produce, unlike tree paper. Interestingly, the paper responded the same way to inks as tree paper. They were even able to play with a transparency effect with the paper because they used a thin layer. The binding for the calendar was made of 100% recyclable aluminum, and they did not use full-bleed to minimize ink. 
 
 ###Project Example
-![alt text](lapage2.jpg)
+![alt text](/publication/assets/img/claire/lapage2.jpg)
 Squid Ink: La Page Original held a workshop with students from Pau Gargallo School with ecodesign as their focus. They were tasked with creating a product that would liven their city while being sustainable at the same time. They decided screen print a graphic with the recipe to a famous dish in their local town. They worked with squid ink, a safe ink that is edible but was difficult to work with. They were successful with their project however.
 
