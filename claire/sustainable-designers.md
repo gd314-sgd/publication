@@ -74,5 +74,5 @@ Stone-Paper: They launched an experiment to print a calendar on paper made of st
 
 ###Project Example
 ![alt text](lapage2.jpg)
-Squid Ink: 
+Squid Ink: La Page Original held a workshop with students from Pau Gargallo School with ecodesign as their focus. They were tasked with creating a product that would liven their city while being sustainable at the same time. They decided screen print a graphic with the recipe to a famous dish in their local town. They worked with squid ink, a safe ink that is edible but was difficult to work with. They were successful with their project however.
 
