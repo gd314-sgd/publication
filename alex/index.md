@@ -32,6 +32,7 @@ In order for the brand to connect to the larger scope of the school, but also pl
 This new typeface is called "Maker Giza," playying on the new role of "designer as maker." The notion of a "maker" is rooted in traditional crafts and practices, which is what "Maker Giza" aims to do through its subversion of signage and typographic treatment. 
 
 ![Stencil outline](MakerGiza_StencilOutline.jpg)
+![Stencil outline2](Deconstruction_Stencil_1.jpg)
 
 Figuring out the signage naturally led into creating a typeface in order to maintain consistency for print deliverables.  Choosing the body text came down to convenience, conservation of energy and accessibility. By choosing the default typeface native to InDesign and Illustrator, typefaces like “Minion Pro” and “Myriad Pro” can be used by anyone, anywhere with Creative Cloud. Not only do these 2 typefaces (especially “Minion Pro”) offer a wide number of weights, they also compliment the modular “Maker Giza” typeface with their humanistic undertones. 
 
