@@ -23,17 +23,18 @@ I learned a different way to display text without ink. I learned that we can be 
 I found sustainable typeface options. Before taking this class, I did not know about the existence of sustainable typefaces. Also the deck library at MICA has a tone of books dedicated to sustainable design.
 
 8.What do you know now that would have made your life easier at the beginning?(or what things that you figured out would be good to have given yourself when you were a first year or sophomore?)
-I learned that designers do not necesarily have to spend money printing or buying ink to display their work. There are other ways to be creative without hurting the environment, we just have to be creative enough to find a sustainable way to think outside the box.
+I learned that designers do not necesarily have to spend money printing or buying ink to display their work. There are other ways to be creative without hurting the environment, we just have to be creative enough to find a sustainable way to think outside the box. 
 
 9.What other projects or examples did you look at for inspiration?
 After I finished my sustainable project, one of my classmates told me about Annie Howe, a Baltimore based paper cut artist. She is a graduate of the Maryland Institute College of Art. Her paper cuts are used for a variety of projects including illustration, surface design, and three-dimensional work. I was excited to see all her sustainable work at her website anniehowepapercuts.com 
 
 10.Any images or in process examples you can provide?
-I will provide images showing the process and final design of the book.
+![stickynote:don't betray love](/images/love.jpg)
+Format: ![Alt Text](url)
 
 11.If you're finishing the project; can you provide final documentation?
 The images will be documented 
-:smile:
+
 
 
 
