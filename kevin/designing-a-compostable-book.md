@@ -1,10 +1,13 @@
-# Kevin
-
-# Designing a compostable book
+---
+title: Designing a Compostable Book
+author: Kevin Guyer
+theme: Printing
+---
 
 I was approached by a duo of Design Leadership MA students to realize their concept for a plantable workbook about managing grief. It quickly revealed itself to be much more complicated of a project as originally thought—it COULD just be be regular paper with a generic seed-paper cover, but it could also work through many relevant considerations: does regular paper have bleaching elements that would be toxic to soil Would the seeded paper introduce an invasive species? Could the amount of content be reduced without losing its effect? To the extent possible, I addressed each of these concerns to arrive at a well-considered end result.
 
 ![Main book spread] (kevin-book-2.png)
+<p class="caption">An internal spread inviting the reader's action</p>
 
 ## Reducing unnecessary content
 
@@ -25,6 +28,7 @@ Regular, petroleum-based ink contains a high amount of 'VOCs'—volatile organic
 Utilizing a Risograph to print the books is perfect: it is energy efficient, while rapidly printing many copies, and uses rice-bran ink. The Risograph works by burning a master copy of a single page and rapidly printing copies by the use of a single-color ink drum.
 
 ![Book setup diagram] (kevin-book-1.png)
+<p class="caption">Book materials and packaging</p>
 
 ## Design decisions
 
