@@ -10,10 +10,18 @@ The first step was editing down the lengthy amount of written content—a good a
 
 ## What goes into a piece of paper
 
-For a standard piece of printing paper, a mechanical bleaching process (called ‘brightening’) takes place to produce the crisp, white sheet we all expect. This is mostly brought to fruition by mixing the paper pulp with hydrogen peroxide and sodium dithionite. These two compounds together prohibit the makeup of the pulp from absorbing visible light, keeping the paper bright for longer. Mechanical bleaching is better than it used to be—conventionally, chlorine was used, which is efficient. But produced with a bright piece of paper were chlorinated dioxins which are recognized as a ‘persistent environmental pollutant’ and cancerous to humans.
+For a conventional piece of printing paper, a mechanical bleaching process (called ‘brightening’) takes place to produce the crisp, white sheet we all expect. This is mostly brought to fruition by mixing the paper pulp with hydrogen peroxide and sodium dithionite. These two compounds together prohibit the makeup of the pulp from absorbing visible light, keeping the paper bright for longer. Mechanical bleaching is better than it used to be—conventionally, chlorine was used, which is efficient. But produced with a bright piece of paper were chlorinated dioxins which are recognized as a ‘persistent environmental pollutant’ and cancerous to humans.
 
-The best option ended up being newsprint, because it travels through the least amount of mechanical processes AND remains lightweight. Together, this allows the paper to decompose as effectively as possible.
+On the opposite side of the spectrum, newsprint can either be manufactured with recycled paper fibers or may be created with fresh timber. Both options involve turning the wood or fibers into a pulp, then dried. No bleaching, which gives it the distinct light gray shade associate with newsprint.
 
-## Ink considerations
+The result is a lightweight paper with minimal embedded-energy and use of chemicals. For a book that needs to hold up during use, then easily decompose: newsprint is perfect.
 
-Regular, petroleum-based ink contains a high amount of 'VOCs'—volatile organic compounds. These can be carcinogenic and toxic to ecosystems. In the case of this book, the ink is very important because it has to be buried into soil—and toxic ink would not be optimal. Soy-ink is a great solution because not only are colors brighter
+## Ink & printing considerations
+
+Regular, petroleum-based ink contains a high amount of 'VOCs'—volatile organic compounds. These can be carcinogenic and toxic to ecosystems. In the case of this book, the ink is very important because it has to be buried into soil—and toxic ink would not be optimal. Vegetable-based ink is a great solution because not only are soybeans and rice bran renewable resources, but the colors are reported to be brighter and more accurate than petroleum-based ink.
+
+Utilizing a Risograph to print the books is perfect: it is energy efficient, while rapidly printing many copies, and uses rice-bran ink.
+
+## Design decisions
+
+For a book that relies on inspiring writing prompts, the typography is important. I selected Domaine Text Light, a thin serif with a natural, sensitive feel. Anything that isn't a writing prompt is typeset in the normal style of the font, while prompts are set with an underline—indicating the griever's action.
