@@ -70,7 +70,7 @@ In artificial designs, we work with stakeholders for our audiences whom we choos
 
 
 **1.4 Why & So what**
-![why&so what](images/why.png)
+![why&so what](images/so what.png)
 
 At this step, we have found pieces of facts through a large amount of work on research, but not enough. With these disordered information, we need to connect and order them by asking 'why' and 'so what'.
 And asking a few times is not enough as well. It's very annoying, uncomfortable, painful and cruel, but we have to repeat the 2 questions endlessly. Because you will find every time you get different answers and it's hard to tell what are appropriate truly.
@@ -92,7 +92,7 @@ We have to keep positive among those disappointing facts and design hopes and wi
 
 
 **1.7 What can we do now?**
-![design question](images/design quest.jpg)
+![design question](images/why.png)
 
 Now we can decide what we can design by answering the 5W questions after great efforts on research,finally. But as you can see, we are just at the halfway point, but it's the beginning of our influence to the world. 
 Next, we need to be more brave yet careful for we're going to gain and lose physically in this material world of conservation, by action research.
@@ -208,12 +208,13 @@ The key to be flourishing is diversity and balance.
 The opposite way is singularity and lopsidedness.
 
 To keep diversity, we should not judge the difference and unknown before we know them. In order to protect ourselves, we can keep enough distance with each other, just like sharp deers. But we can try to know and understand them by communicating and sharing instead of criticism and fight without knowledge.
-To keep balance needs wisdom which is different from knowledge.
+In design, hearing different views, view things from different angles， thinking different possibilities, preparing different plans, work with differnt people, researching and testing in different ways, making different mistakes ... so that you can make a difference.
+
 
 
 ### 5. Conclusion
 
-Thanks for spending time reading. Since this class is called Sustainable Graphic Design, my conclusion about what the mission of graphic designers is ---
+Since this class is called Sustainable Graphic Design, my conclusion about what the mission of graphic designers is ---
 
 
 As visual designers, 
