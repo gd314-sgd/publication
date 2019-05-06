@@ -16,22 +16,19 @@ The RETURN project so far includes 3 part.
 I will explain it by answering the following questions:
 
 1. How to be sustainable?
-
 _Plant a tree_ 
 
 2. What do you want to sustain?
-
 _Choose a seed_ 
 
 3. Why flourish?
-
 _For happiness_ 
 
 4. How to flourish?
-
 _Diversity & balance_ 
 
 5. Conclusion
+_Mission_ 
 
 
 
@@ -49,6 +46,8 @@ _Diversity & balance_
 
 
 1.1 The Environment of Design
+
+
 
 The environment decides what kinds of trees will be able to survive.
 
@@ -137,10 +136,6 @@ Every existence is a unique miracle already.
 Yet it's far not enough if we want to do something good.
 
 
-
-
-### 2. What do you want to sustain?
-
 There’s nothing new under the sun.
 
 The methodology already used widely everywhere. I just illustrated and explain it as a designer but everyone is a designer because we all want to sustain something. 
@@ -158,6 +153,9 @@ There’s a Goebbels effect. It means when you repeat the fake thousands of time
 In their way, things run kind of well in those systems but there's fear all the time, for it's clearly unsustainable. For it's opposite from nature's direction.
 
 Therefore, the methodology map is just a tool and way. To use it in what directions depends on you.  
+
+
+### 2. What do you want to sustain?
 
 
 So the key question should be --- 
@@ -178,9 +176,8 @@ What on earth do you want?
 What kind of environment do you want to adapt to?
 
 You have to spend a lot on these questions if you really want something.
-
-For you know what kind of seed you plant decides what you're going to gain in the harvest. The destination decides the direction.
-
+For you know what kind of seed you plant decides what you're going to gain in the harvest. 
+The destination decides the direction.
 The same people will meet and help each other towards the destination even they come from different places.
 
 Therefore, who do you want to work with?
@@ -211,13 +208,11 @@ I believe that's the answer of those who are living in unsustainable ways.
 We have the same answer because humanity never changes. We are all human beings. But I'm sure there's a difference between our happiness.
 
 We have different values on what is happiness.
-
 In my opinion, there’re 2 kinds of happiness.
 
 One is from the brain. 
 
 It's made by our physiological sense so that it's short, limited, feels real and we can control it by physical ways, for scientists can see it through microscopes.
-
 So we need to eat and feels happy when eating, but if we eat too much we'll get sick. Some people keep taking drugs, shopping and searching for excitement from outside to sustain it. But we should sleep when we are sleepy instead of drinking coffee. And actually, we don't need too much sleep and food, just take what we need.
 
 Another one is from the heart.
@@ -228,7 +223,6 @@ We feel happy when close to beautiful nature, naturally, and from the bottom of 
 ### 4. How to flourish?
 
 The key to be flourishing is diversity and balance.
-
 The opposite way is singularity and lopsidedness.
 
 To keep diversity, we should not judge the difference and unknown before we know them. In order to protect ourselves, we can keep enough distance with each other, just like sharp deers. But we can try to know and understand them by communicating and sharing instead of criticism and fight without knowledge.
