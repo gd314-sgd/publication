@@ -117,7 +117,7 @@ Then we can keep questioning 'why' and 'so what' about them, and start another l
 
 The 10 suggestions are also combined with each other and we need to apply them all at the same time.
 
-![rules](images/10 rules.png)
+![rules](images/rules.jpg)
 
 The whole process is complex, tough and cruel. Therefore nothing comes easily. 
 Every existence is a unique miracle already.
