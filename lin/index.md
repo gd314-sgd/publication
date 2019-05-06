@@ -1,4 +1,4 @@
-# RETURN -- The flourish of Ecology and Humanity 
+# RETURN 
 ![return](images/return.png)
 When we keep running rapidly, sometimes we should slow down and look back towards the point where we started, especially while we can see there're full of dangers ahead that feel not like what we expected before. Maybe we can think about changing our direction to correct it and question ourselves, what if our destination, is in the opposite way?
 
@@ -200,7 +200,7 @@ We feel happy when close to beautiful nature, naturally, and from the bottom of 
 
 
 ### 4. How to flourish?
-![fourish map](images/fourish.jpg)
+![fourish map](images/flourish.png)
 The key to be flourishing is diversity and balance.
 The opposite way is singularity and lopsidedness.
 
@@ -220,5 +220,15 @@ so that people can realize.
 
 ![trees](images/trees.png)
 
+---
+## Reference:
+- [<Tao Te Ching>](https://www.sacred-texts.com/tao/taote.htm) — 'Tao follows the laws of Nature'
+- [<Speculative Everything>](https://readings.design/PDF/speculative-everything.pdf) — 'The advantage of designers is to visual things after logical thingking'(I don't remember clearly..).
+- [double-diamond](https://www.thoughtworks.com/insights/blog/double-diamond) — 'The Design Process'.
+- [<Scales>](https://www.youtube.com/watch?v=XyCY6mjWOPc) — 'The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies'.
+- [<Antifragile>](https://en.wikipedia.org/wiki/Antifragile) — 'Things That Gain From Disorder '.
+- [Positive Psychology](https://www.youtube.com/watch?v=K8qpn6kNfPc&list=PL28D16304BA57DD7E) — 'Learn from fails or fail to learn'.
+- [<Atals shrugged>](https://en.wikipedia.org/wiki/Atlas_Shrugged) — 'Check your premises'.
+- [<The Hitchhiker's Guide to the Galaxy>](https://www.youtube.com/watch?v=pmyNitDhMd8) — 'Ask the right question'.
 
-[And! anything you put in brackets](1) will be a link (you need the parenthesis at the end of the brackets.)
+
