@@ -17,12 +17,15 @@ I will explain it by answering the following questions:
 1. How to be sustainable?
 
 _Plant a tree_ 
+
 2. What do you want to sustain?
 
 _Choose a seed_ 
+
 3. Why flourish?
 
 _For happiness_ 
+
 4. How to be flourishing?
 
 _Diversity & balance_ 
