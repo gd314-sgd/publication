@@ -222,13 +222,13 @@ so that people can realize.
 
 ---
 ## Reference:
-- [<Tao Te Ching>](https://www.sacred-texts.com/tao/taote.htm) — 'Tao follows the laws of Nature'
-- [<Speculative Everything>](https://readings.design/PDF/speculative-everything.pdf) — 'The advantage of designers is to visual things after logical thingking'(I don't remember clearly..).
+- [Tao Te Ching](https://www.sacred-texts.com/tao/taote.htm) — 'Dao follows the laws of Nature'.
+- [Speculative Everything>](https://readings.design/PDF/speculative-everything.pdf) — 'The advantage of designers is to visual things after logical thingking'(I don't remember clearly..).
 - [double-diamond](https://www.thoughtworks.com/insights/blog/double-diamond) — 'The Design Process'.
-- [<Scales>](https://www.youtube.com/watch?v=XyCY6mjWOPc) — 'The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies'.
-- [<Antifragile>](https://en.wikipedia.org/wiki/Antifragile) — 'Things That Gain From Disorder '.
+- [Scale](https://www.youtube.com/watch?v=XyCY6mjWOPc) — 'The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies'.
+- [Antifragile](https://en.wikipedia.org/wiki/Antifragile) — 'Things That Gain From Disorder '.
 - [Positive Psychology](https://www.youtube.com/watch?v=K8qpn6kNfPc&list=PL28D16304BA57DD7E) — 'Learn from fails or fail to learn'.
-- [<Atals shrugged>](https://en.wikipedia.org/wiki/Atlas_Shrugged) — 'Check your premises'.
+- [Atlas Shrugged](https://en.wikipedia.org/wiki/Atlas_Shrugged) — 'Check your premises'.
 - [<The Hitchhiker's Guide to the Galaxy>](https://www.youtube.com/watch?v=pmyNitDhMd8) — 'Ask the right question'.
 
 
