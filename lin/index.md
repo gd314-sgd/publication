@@ -33,6 +33,7 @@ _Mission_
 
 
 ### 1. How to be sustainable?
+![map](images/sustainability map.png)
 - 1.1 The Environment of Design
 - 1.2 Ecology System
 - 1.3 Humanity System
