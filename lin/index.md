@@ -48,7 +48,7 @@ _Mission_
 
 1.1 The Environment of Design
 
-![adaption](src/adaption.png)
+![adaption](Lin/adaption.png)
 
 The environment decides what kinds of trees will be able to survive.
 
