@@ -13,7 +13,8 @@ The RETURN project so far includes 3 part.
 
 ## The methodology map
 
-I will explain it by answering the following questions:
+**I will explain it by answering the following questions:**
+
 1. How to be sustainable?
 
 _Plant a tree_ 
@@ -30,11 +31,20 @@ _For happiness_
 
 _Diversity & balance_ 
 
-### How to be sustainable?
 
-Any type that you type is treated as a plain paragraph.
 
-You need to double return paragraphs. If you don't double return it will see this as just the next sentence of the previous paragraph.
+### 1. How to be sustainable?
+- 1.1 The Environment of Design
+- 1.2 Ecology System
+- 1.3 Humanity System
+- 1.4 Why & So what
+- 1.5 Time & Size Scales
+- 1.6 Finding advantages
+- 1.7 What can we do now?
+- 1.8 Finding shortages
+- 1.9 Testing prototypes
+- 1.10 Ten rules
+
 
 - This is a list
 - you just put a hyphen or an asterix
