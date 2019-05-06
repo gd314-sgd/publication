@@ -129,8 +129,10 @@ The 10 suggestions are also combined with each other and we need to apply them a
 
 
 
-The whole process is complex, tough and cruel, therefore nothing comes easily. Every existence is a unique miracle already.
 
+The whole process is complex, tough and cruel, therefore nothing comes easily. 
+
+Every existence is a unique miracle already.
 
 Yet it's far not enough if we want to do something good.
 
@@ -158,10 +160,79 @@ In their way, things run kind of well in those systems but there's fear all the 
 Therefore, the methodology map is just a tool and way. To use it in what directions depends on you.  
 
 
+So the key question should be --- 
+
+What do you want?
+
+Why do you want it?
+
+Is it really the reason for it?
+
+Do you really benefit from it, eventually?
+
+Do the people you want to help really benefit from it, eventually?
+(Usually, we think we're doing good to others or ourselves but actually not. )
+
+What on earth do you want?
+
+What kind of environment do you want to adapt to?
+
+You have to spend a lot on these questions if you really want something.
+
+For you know what kind of seed you plant decides what you're going to gain in the harvest. The destination decides the direction.
+
+The same people will meet and help each other towards the destination even they come from different places.
+
+Therefore, who do you want to work with?
+
+Where do you want to go?
+
 
 ### 3. Why flourish?
 
+We always feel our behaviors are very reasonable and there’s nothing to doubt about ourselves.
+That’s true because we do things for reasons.
+
+I feel, eventually, we do things just for, 
+
+Happiness.
+
+That’s what we want.
+
+And we want it right now, very much.
+
+So my answer to why I want to design flourish is very simple.
+
+Because I feel happy!
+
+And it turns out I am living happily by doing it!
+
+I believe that's the answer of those who are living in unsustainable ways.
+We have the same answer because humanity never changes. We are all human beings. But I'm sure there's a difference between our happiness.
+
+We have different values on what is happiness.
+
+In my opinion, there’re 2 kinds of happiness.
+
+One is from the brain. 
+
+It's made by our physiological sense so that it's short, limited, feels real and we can control it by physical ways, for scientists can see it through microscopes.
+
+So we need to eat and feels happy when eating, but if we eat too much we'll get sick. Some people keep taking drugs, shopping and searching for excitement from outside to sustain it. But we should sleep when we are sleepy instead of drinking coffee. And actually, we don't need too much sleep and food, just take what we need.
+
+Another one is from the heart.
+
+We feel happy when close to beautiful nature, naturally, and from the bottom of our hearts. It lasts long and limitless. For we know psychological factor always influence much more than the physical one. It feels very real as well, especially when we're heartbroken. We can also control it by getting close to the truly beautiful things and learn from them.
+
+
 ### 4. How to flourish?
+
+The key to be flourishing is diversity and balance.
+
+The opposite way is singularity and lopsidedness.
+
+To keep diversity, we should not judge the difference and unknown before we know them. In order to protect ourselves, we can keep enough distance with each other, just like sharp deers. But we can try to know and understand them by communicating and sharing instead of criticism and fight without knowledge.
+
 
 ### 5. Conclusion
 
