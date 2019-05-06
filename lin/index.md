@@ -51,14 +51,12 @@ _Mission_
 ![adapt](images/adapt.jpg)
 
 The environment decides what kinds of trees will be able to survive.
-
 Each design is run by people for the audience, at some place and some time. They're the 5W questions of design -- who, where, when, what and why. In order to let our design survive, it's worthy to spend a lot on the previous research and make decisions according to the facts and the available recourses we find, as much as we can.
 
 
 **1.2 Ecology System**
 ![adapt](images/ecology.jpg)
 Geography is the foundation which decides what kinds of natural resources there are and nature will use them economically. All the systems are combined and share the materials. They run in loops to let the limited materials sustain. What's more, there're the variation and iteration to keep improving the changeable systems.
-
 If designs exist in this physical world, they have to take some materials and turn into something for designers' reasons.
 
 
@@ -72,16 +70,13 @@ In artificial designs, we work with stakeholders for our audiences whom we choos
 **1.4 Why & So what**
 ![why&so what](images/why&so what.jpg)
 We find pieces of facts through a large amount of work on research, but not enough. With this disordered information, we need to connect and order them by asking why and so what.
-
 And asking a few times is not enough as well. It's very uncomfortable, painful and cruel, but we have to repeat the 2 questions endlessly. Because you will find every time you get different answers and it's hard to tell what are appropriate truly.
-
 In addition, ask 'why' before 'so what'. It's very easy that we jump into designing the solution of problems instead of understanding how they were caused. Your solutions might work for a while but lose function quickly because they don't touch 'nature'. 
 
 
 **1.5 Time & Size Scales**
 ![scale](images/scale.jpg)
 Asking in different kinds of scales of time and sizes can help us think from all angles. 
-
 In time, the history of the object is very important. Because things happen in circulations so it might already happen before. It will save us a lot if we spend enough on the previous. But the solution worked before doesn't mean it will work for now and the future. That can be our reference but of course, we can not just copy it. It's very easy that we follow the traditional ways expecting to solve the changeable problems. 
 
 In sizes, different scales of designs need different volumes of resource and impact with different degrees. 
@@ -90,9 +85,7 @@ In sizes, different scales of designs need different volumes of resource and imp
 **1.6 Finding advantages**
 ![opportunity](images/opportunity.jpg)
 There're problems everywhere and all the time. For most situations, we can do nothing at all. It's great to realize don't try to tackle something when we don't have the ability to. Just do your part as best as you can.
-
 But changing small things with our limited capacity can also make a difference, especially if they're the keys.
-
 We have to keep positive among those disappointing facts and design hopes and win-win.
 
 
@@ -106,32 +99,29 @@ Next, we need to be more brave yet careful for we're going to gain and lose phys
 **1.8 Finding shortages**
 ![challenge](images/challenge.jpg)
 When we are very optimistic about how we are going to change the world and save the planet, it's time to hold on and reflect the challenges that hiding behind the opportunities we find. To calculate the risks, costs, and effects in different time and size scales as well as on different people. 
-
-These reflections can protect others and us.
+These reflections help to protect others and us.
 
 
 **1.9 Testing prototypes**
 ![test](images/test.jpg)
 To make a difference we have to take risks and pay for it, but we can make more appropriate choices after reflection ,or still can't. In case hurting others and ourselves, we can make a small step first, quickly and easily. Then to walk step by step until we can run. 
-
 If we fall, we can have a rest to think about it and then get up again while correcting our direction from time to time by GPS, just in case you are running into the wrong way by a slight deviation in the beginning.
-
 Only after we practice what we learn from the previous research, we can see things are often totally different from our common sense and research.
-
 Our designs might be changed completely in the future, in functions or efficiency. They can be far out of our expects when it spread furtherly.
-
 Then we can keep questioning 'why' and 'so what' about them, and start another loop.
 
 
 **1.10 Ten rules**
-The 10 suggestions are also combined with each other and we need to apply them all at the same time.
-![rules](images/rules.jpg)
 
+The 10 suggestions are also combined with each other and we need to apply them all at the same time.
+
+![rules](images/rules.jpg)
 
 The whole process is complex, tough and cruel, therefore nothing comes easily. 
 Every existence is a unique miracle already.
 Yet it's far not enough if we want to do something good.
 
+---
 
 There’s nothing new under the sun.
 
@@ -139,7 +129,6 @@ The methodology already used widely everywhere. I just illustrated and explain i
 
 I think the business uses it first and has done very well, especially the internet companies. That’s why they can make popular products that are so easy for users and satisfy them so much that they can not refuse it. And they are proud of what they have done by saying ' We create needs. That's a real innovation. '
 That’s how they make money from utilizing nature and humanity. 
-
 They built a whole enormous and cumbersome system to support it depending on the natural resource that looks like endless, exploiting loopholes and sending people to involve, by designing things that should be known invisible and educating us in their ways. 
 
 There’s a Goebbels effect. It means when you repeat the fake thousands of times, then they become, the ‘ truth '.
@@ -161,7 +150,7 @@ Is it really the reason for it?
 
 Do you really benefit from it, eventually?
 
-Do the people you want to help really benefit from it, eventually?
+Are you sure the people you want to help really benefit from it, finally?
 (Usually, we think we're doing good to others or ourselves but actually not. )
 
 What on earth do you want?
@@ -182,22 +171,19 @@ Where do you want to go?
 
 We always feel our behaviors are very reasonable and there’s nothing to doubt about ourselves.
 That’s true because we do things for reasons.
-
 I feel, eventually, we do things just for, 
 
 Happiness.
 
 That’s what we want.
-
 And we want it right now, very much.
-
 So my answer to why I want to design flourish is very simple.
 
 Because I feel happy!
 
 And it turns out I am living happily by doing it!
 
-I believe that's the answer of those who are living in unsustainable ways.
+I believe that's also the answer of those who are living in unsustainable ways.
 We have the same answer because humanity never changes. We are all human beings. But I'm sure there's a difference between our happiness.
 
 We have different values on what is happiness.
