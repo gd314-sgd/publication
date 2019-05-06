@@ -12,7 +12,7 @@ The RETURN project so far includes 3 part.
 ---
 
 ## The methodology map
-![sustainability map](images/sustainability map.png)
+![sustainability map](images/sustainable.jpg)
 I will explain it by answering the following questions:
 
 1. How to be sustainable?
@@ -46,7 +46,7 @@ _Mission_
 - 1.10 Ten rules
 
 
-1.1 The Environment of Design
+**1.1 The Environment of Design** 
 
 ![adapt](images/adapt.jpg)
 
@@ -55,30 +55,30 @@ The environment decides what kinds of trees will be able to survive.
 Each design is run by people for the audience, at some place and some time. They're the 5W questions of design -- who, where, when, what and why. In order to let our design survive, it's worthy to spend a lot on the previous research and make decisions according to the facts and the available recourses we find, as much as we can.
 
 
-1.2 Ecology System
+**1.2 Ecology System**
 ![adapt](images/ecology.jpg)
 Geography is the foundation which decides what kinds of natural resources there are and nature will use them economically. All the systems are combined and share the materials. They run in loops to let the limited materials sustain. What's more, there're the variation and iteration to keep improving the changeable systems.
 
 If designs exist in this physical world, they have to take some materials and turn into something for designers' reasons.
 
 
-1.3 Humanity System
+**1.3 Humanity System**
 ![humanity](images/humanity.jpg)
 People's mind is the foundation of our system. Our bodies are born from nature so the rules of Ecology system work on us as well and there's no big difference.
 
 In artificial designs, we work with stakeholders for our audiences whom we choose. And we make design decisions by our value or according to audiences' willings from cultures. The economy is also about making decisions, for we have limited resources but endless needs. So you always have to give up something for gaining something else. Competitive markets make choices for us. As Marxist said, ' Base and superstructure', politics influence our designs very much. We should know and understand the policy and search for useful resources for us. Governments are surely included in our stakeholders.
 
 
-1.4 Why & So what
+**1.4 Why & So what**
 ![why&so what](images/why&so what.jpg)
 We find pieces of facts through a large amount of work on research, but not enough. With this disordered information, we need to connect and order them by asking why and so what.
 
-And asking a few times is not enough as well. It's very uncomfortable, painful and cruel as Devin said(He described it clearly in his project. ) but we have to repeat the 2 questions endlessly. Because you will find every time you get different answers and it's hard to tell what are appropriate truly.
+And asking a few times is not enough as well. It's very uncomfortable, painful and cruel, but we have to repeat the 2 questions endlessly. Because you will find every time you get different answers and it's hard to tell what are appropriate truly.
 
 In addition, ask 'why' before 'so what'. It's very easy that we jump into designing the solution of problems instead of understanding how they were caused. Your solutions might work for a while but lose function quickly because they don't touch 'nature'. 
 
 
-1.5 Time & Size Scales
+**1.5 Time & Size Scales**
 ![scale](images/scale.jpg)
 Asking in different kinds of scales of time and sizes can help us think from all angles. 
 
@@ -87,7 +87,7 @@ In time, the history of the object is very important. Because things happen in c
 In sizes, different scales of designs need different volumes of resource and impact with different degrees. 
 
 
-1.6 Finding advantages
+**1.6 Finding advantages**
 ![opportunity](images/opportunity.jpg)
 There're problems everywhere and all the time. For most situations, we can do nothing at all. It's great to realize don't try to tackle something when we don't have the ability to. Just do your part as best as you can.
 
@@ -96,21 +96,21 @@ But changing small things with our limited capacity can also make a difference, 
 We have to keep positive among those disappointing facts and design hopes and win-win.
 
 
-1.7 What can we do now?
+**1.7 What can we do now?**
 ![design quest](images/design quest.jpg)
 Finally, we can decide what we can design by answering the 5W questions with great efforts on research. As you can see, we are just at the halfway point but it's the beginning of our influence to systems. 
 
 Next, we need to be more brave yet careful for we're going to gain and lose physically in this material world of conservation, by action research.
 
 
-1.8 Finding shortages
+**1.8 Finding shortages**
 ![challenge](images/challenge.jpg)
 When we are very optimistic about how we are going to change the world and save the planet, it's time to hold on and reflect the challenges that hiding behind the opportunities we find. To calculate the risks, costs, and effects in different time and size scales as well as on different people. 
 
 These reflections can protect others and us.
 
 
-1.9 Testing prototypes
+**1.9 Testing prototypes**
 ![test](images/test.jpg)
 To make a difference we have to take risks and pay for it, but we can make more appropriate choices after reflection ,or still can't. In case hurting others and ourselves, we can make a small step first, quickly and easily. Then to walk step by step until we can run. 
 
@@ -123,28 +123,21 @@ Our designs might be changed completely in the future, in functions or efficienc
 Then we can keep questioning 'why' and 'so what' about them, and start another loop.
 
 
-1.10 Ten rules
-![rules](images/rules.jpg)
+**1.10 Ten rules**
 The 10 suggestions are also combined with each other and we need to apply them all at the same time.
+![rules](images/rules.jpg)
 
-
----
 
 The whole process is complex, tough and cruel, therefore nothing comes easily. 
-
 Every existence is a unique miracle already.
-
 Yet it's far not enough if we want to do something good.
 
 
 There’s nothing new under the sun.
 
-The methodology already used widely everywhere. I just illustrated and explain it as a designer but everyone is a designer because we all want to sustain something. 
-
-Fortune, fame, power, relationship, life….
+The methodology already used widely everywhere. I just illustrated and explain it as a designer but everyone is a designer because we all want to sustain something. Fortune, fame, power, relationship, life….
 
 I think the business uses it first and has done very well, especially the internet companies. That’s why they can make popular products that are so easy for users and satisfy them so much that they can not refuse it. And they are proud of what they have done by saying ' We create needs. That's a real innovation. '
-
 That’s how they make money from utilizing nature and humanity. 
 
 They built a whole enormous and cumbersome system to support it depending on the natural resource that looks like endless, exploiting loopholes and sending people to involve, by designing things that should be known invisible and educating us in their ways. 
@@ -152,7 +145,6 @@ They built a whole enormous and cumbersome system to support it depending on the
 There’s a Goebbels effect. It means when you repeat the fake thousands of times, then they become, the ‘ truth '.
 
 In their way, things run kind of well in those systems but there's fear all the time, for it's clearly unsustainable. For it's opposite from nature's direction.
-
 Therefore, the methodology map is just a tool and way. To use it in what directions depends on you.  
 
 
@@ -222,7 +214,7 @@ We feel happy when close to beautiful nature, naturally, and from the bottom of 
 
 
 ### 4. How to flourish?
-![fourish map](images/fourish map.png)
+![fourish map](images/fourish.jpg)
 The key to be flourishing is diversity and balance.
 The opposite way is singularity and lopsidedness.
 
@@ -240,7 +232,7 @@ to visualize the invisible.
 Show them,
 so that people can realize.
 
-
+![trees](images/trees.png)
 
 
 [And! anything you put in brackets](1) will be a link (you need the parenthesis at the end of the brackets.)
