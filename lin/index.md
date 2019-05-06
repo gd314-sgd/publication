@@ -12,7 +12,7 @@ The RETURN project so far includes 3 part.
 ---
 
 ## The methodology map
-
+![sustainability map](images/sustainability map.png)
 I will explain it by answering the following questions:
 
 1. How to be sustainable?
@@ -30,10 +30,10 @@ _Diversity & balance_
 5. Conclusion
 _Mission_ 
 
-![tree](images/tree.jpg)
+
 
 ### 1. How to be sustainable?
-
+![tree](images/tree.jpg)
 - 1.1 The Environment of Design
 - 1.2 Ecology System
 - 1.3 Humanity System
@@ -48,7 +48,7 @@ _Mission_
 
 1.1 The Environment of Design
 
-![adaptio](Lin/adapt.jpg)
+![adapt](images/adapt.jpg)
 
 The environment decides what kinds of trees will be able to survive.
 
@@ -56,21 +56,21 @@ Each design is run by people for the audience, at some place and some time. They
 
 
 1.2 Ecology System
-
+![adapt](images/ecology.jpg)
 Geography is the foundation which decides what kinds of natural resources there are and nature will use them economically. All the systems are combined and share the materials. They run in loops to let the limited materials sustain. What's more, there're the variation and iteration to keep improving the changeable systems.
 
 If designs exist in this physical world, they have to take some materials and turn into something for designers' reasons.
 
 
 1.3 Humanity System
-
+![humanity](images/humanity.jpg)
 People's mind is the foundation of our system. Our bodies are born from nature so the rules of Ecology system work on us as well and there's no big difference.
 
 In artificial designs, we work with stakeholders for our audiences whom we choose. And we make design decisions by our value or according to audiences' willings from cultures. The economy is also about making decisions, for we have limited resources but endless needs. So you always have to give up something for gaining something else. Competitive markets make choices for us. As Marxist said, ' Base and superstructure', politics influence our designs very much. We should know and understand the policy and search for useful resources for us. Governments are surely included in our stakeholders.
 
 
 1.4 Why & So what
-
+![why&so what](images/why&so what.jpg)
 We find pieces of facts through a large amount of work on research, but not enough. With this disordered information, we need to connect and order them by asking why and so what.
 
 And asking a few times is not enough as well. It's very uncomfortable, painful and cruel as Devin said(He described it clearly in his project. ) but we have to repeat the 2 questions endlessly. Because you will find every time you get different answers and it's hard to tell what are appropriate truly.
@@ -79,7 +79,7 @@ In addition, ask 'why' before 'so what'. It's very easy that we jump into design
 
 
 1.5 Time & Size Scales
-
+![scale](images/scale.jpg)
 Asking in different kinds of scales of time and sizes can help us think from all angles. 
 
 In time, the history of the object is very important. Because things happen in circulations so it might already happen before. It will save us a lot if we spend enough on the previous. But the solution worked before doesn't mean it will work for now and the future. That can be our reference but of course, we can not just copy it. It's very easy that we follow the traditional ways expecting to solve the changeable problems. 
@@ -88,7 +88,7 @@ In sizes, different scales of designs need different volumes of resource and imp
 
 
 1.6 Finding advantages
-
+![opportunity](images/opportunity.jpg)
 There're problems everywhere and all the time. For most situations, we can do nothing at all. It's great to realize don't try to tackle something when we don't have the ability to. Just do your part as best as you can.
 
 But changing small things with our limited capacity can also make a difference, especially if they're the keys.
@@ -97,21 +97,21 @@ We have to keep positive among those disappointing facts and design hopes and wi
 
 
 1.7 What can we do now?
-
+![design quest](images/design quest.jpg)
 Finally, we can decide what we can design by answering the 5W questions with great efforts on research. As you can see, we are just at the halfway point but it's the beginning of our influence to systems. 
 
 Next, we need to be more brave yet careful for we're going to gain and lose physically in this material world of conservation, by action research.
 
 
 1.8 Finding shortages
-
+![challenge](images/challenge.jpg)
 When we are very optimistic about how we are going to change the world and save the planet, it's time to hold on and reflect the challenges that hiding behind the opportunities we find. To calculate the risks, costs, and effects in different time and size scales as well as on different people. 
 
 These reflections can protect others and us.
 
 
 1.9 Testing prototypes
-
+![test](images/test.jpg)
 To make a difference we have to take risks and pay for it, but we can make more appropriate choices after reflection ,or still can't. In case hurting others and ourselves, we can make a small step first, quickly and easily. Then to walk step by step until we can run. 
 
 If we fall, we can have a rest to think about it and then get up again while correcting our direction from time to time by GPS, just in case you are running into the wrong way by a slight deviation in the beginning.
@@ -124,11 +124,11 @@ Then we can keep questioning 'why' and 'so what' about them, and start another l
 
 
 1.10 Ten rules
-
+![rules](images/rules.jpg)
 The 10 suggestions are also combined with each other and we need to apply them all at the same time.
 
 
-
+---
 
 The whole process is complex, tough and cruel, therefore nothing comes easily. 
 
@@ -222,7 +222,7 @@ We feel happy when close to beautiful nature, naturally, and from the bottom of 
 
 
 ### 4. How to flourish?
-
+![fourish map](images/fourish map.png)
 The key to be flourishing is diversity and balance.
 The opposite way is singularity and lopsidedness.
 
