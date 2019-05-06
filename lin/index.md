@@ -9,7 +9,7 @@ The RETURN project so far includes 3 part.
 - 3.A plan for application in a Chinese nature reserve and community
 
 
-
+---
 
 ## The methodology map
 
@@ -33,7 +33,7 @@ _Mission_
 
 
 ### 1. How to be sustainable?
-<images src="sustainability map.png"/>
+
 - 1.1 The Environment of Design
 - 1.2 Ecology System
 - 1.3 Humanity System
@@ -48,7 +48,7 @@ _Mission_
 
 1.1 The Environment of Design
 
-
+![adaption](images/adaptation.png)
 
 The environment decides what kinds of trees will be able to survive.
 
