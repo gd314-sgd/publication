@@ -68,7 +68,7 @@ In artificial designs, we work with stakeholders for our audiences whom we choos
 
 
 **1.4 Why & So what**
-![why&so what](images/why&so what.jpg)
+![why&so what](images/why&sowhat.jpg)
 We find pieces of facts through a large amount of work on research, but not enough. With this disordered information, we need to connect and order them by asking why and so what.
 And asking a few times is not enough as well. It's very uncomfortable, painful and cruel, but we have to repeat the 2 questions endlessly. Because you will find every time you get different answers and it's hard to tell what are appropriate truly.
 In addition, ask 'why' before 'so what'. It's very easy that we jump into designing the solution of problems instead of understanding how they were caused. Your solutions might work for a while but lose function quickly because they don't touch 'nature'. 
@@ -90,7 +90,7 @@ We have to keep positive among those disappointing facts and design hopes and wi
 
 
 **1.7 What can we do now?**
-![design quest](images/design quest.jpg)
+![design question](images/design quest.jpg)
 Finally, we can decide what we can design by answering the 5W questions with great efforts on research. As you can see, we are just at the halfway point but it's the beginning of our influence to systems. 
 
 Next, we need to be more brave yet careful for we're going to gain and lose physically in this material world of conservation, by action research.
