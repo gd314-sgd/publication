@@ -30,7 +30,7 @@ _Diversity & balance_
 5. Conclusion
 _Mission_ 
 
-![tree](images/tree.png)
+![tree](images/tree.jpg)
 
 ### 1. How to be sustainable?
 
