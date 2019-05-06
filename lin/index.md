@@ -30,7 +30,7 @@ _Diversity & balance_
 5. Conclusion
 _Mission_ 
 
-![tree loop](images/flourish.jpg)
+![tree](images/tree.png)
 
 ### 1. How to be sustainable?
 
