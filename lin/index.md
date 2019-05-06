@@ -1,5 +1,5 @@
 # RETURN -- The flourish of Ecology and Humanity 
-
+![return](images/return.png)
 When we keep running rapidly, sometimes we should slow down and look back towards the point where we started, especially while we can see there're full of dangers ahead that feel not like what we expected before. Maybe we can think about changing our direction to correct it and question ourselves, what if our destination, is in the opposite way?
 
 
@@ -68,7 +68,7 @@ In artificial designs, we work with stakeholders for our audiences whom we choos
 
 
 **1.4 Why & So what**
-![why&so what](images/why&sowhat.jpg)
+![why&so what](images/why.png)
 We find pieces of facts through a large amount of work on research, but not enough. With this disordered information, we need to connect and order them by asking why and so what.
 And asking a few times is not enough as well. It's very uncomfortable, painful and cruel, but we have to repeat the 2 questions endlessly. Because you will find every time you get different answers and it's hard to tell what are appropriate truly.
 In addition, ask 'why' before 'so what'. It's very easy that we jump into designing the solution of problems instead of understanding how they were caused. Your solutions might work for a while but lose function quickly because they don't touch 'nature'. 
