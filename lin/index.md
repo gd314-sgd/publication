@@ -228,6 +228,7 @@ so that people can realize.
 ---
 ## Reference:
 - [Tao Te Ching](https://www.sacred-texts.com/tao/taote.htm) — 'Tao follows the laws of Nature'.
+- [Art of loving](https://en.wikipedia.org/wiki/The_Art_of_Loving) — 'Love isn't a feeling, it's a practise'.
 - [Speculative Everything](https://readings.design/PDF/speculative-everything.pdf) — 'The advantage of designers is to visual things after logical thingking'(I don't remember clearly..).
 - [double-diamond](https://www.thoughtworks.com/insights/blog/double-diamond) — 'The Design Process'.
 - [six thinking hats](http://www.debonogroup.com/six_thinking_hats.php) — 'Viewing the problem from all angles'.
