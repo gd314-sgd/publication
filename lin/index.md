@@ -172,7 +172,7 @@ Where do you want to go?
 ### 3. Why flourish?
 
 We always feel our behaviors are 100% reasonable and there’s nothing to doubt about ourselves.
-That’s true because we do things for reasons.
+That’s true because we do things for reasons and everything is caused by something to happen. 
 So our reasons for doing things, I feel, eventually, just for, 
 
 Happiness.
@@ -208,6 +208,7 @@ The key to be flourishing is diversity and balance.
 The opposite way is singularity and lopsidedness.
 
 To keep diversity, we should not judge the difference and unknown before we know them. In order to protect ourselves, we can keep enough distance with each other, just like sharp deers. But we can try to know and understand them by communicating and sharing instead of criticism and fight without knowledge.
+
 In design, hearing different views, view things from different angles， thinking different possibilities, preparing different plans, work with differnt people, researching and testing in different ways, making different mistakes ... so that you can make a difference.
 
 
@@ -225,17 +226,22 @@ so that people can realize.
 
 ![trees](images/trees.png)
 
+Enjoy the difficulties, if you figure out what you really want after answering all the questions and trying everything, including giving up. No one can promise that the way you choose will be easy or right, for you. 
+
+Just imagine you're playing a game. If the game is too easy you'll lose interest. But I'm sure you will gain what you plant with your heart if you deserve it.
+
 ---
 ## Reference:
 - [Tao Te Ching](https://www.sacred-texts.com/tao/taote.htm) — 'Tao follows the laws of Nature'.
 - [Art of loving](https://en.wikipedia.org/wiki/The_Art_of_Loving) — 'Love isn't a feeling, it's a practise'.
-- [Speculative Everything](https://readings.design/PDF/speculative-everything.pdf) — 'The advantage of designers is to visual things after logical thingking'(I don't remember clearly..).
+- [<The Hitchhiker's Guide to the Galaxy>](https://www.youtube.com/watch?v=pmyNitDhMd8) — 'Ask the right question'.
+- [Speculative Everything](https://readings.design/PDF/speculative-everything.pdf) — 'The advantage of designers is to visual things after logical thingking'.
 - [double-diamond](https://www.thoughtworks.com/insights/blog/double-diamond) — 'The Design Process'.
 - [six thinking hats](http://www.debonogroup.com/six_thinking_hats.php) — 'Viewing the problem from all angles'.
 - [Scale](https://www.youtube.com/watch?v=XyCY6mjWOPc) — 'The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies'.
 - [Antifragile](https://en.wikipedia.org/wiki/Antifragile) — 'Things That Gain From Disorder '.
 - [Positive Psychology](https://www.youtube.com/watch?v=K8qpn6kNfPc&list=PL28D16304BA57DD7E) — 'Learn from fails or fail to learn'.
 - [Atlas Shrugged](https://en.wikipedia.org/wiki/Atlas_Shrugged) — 'Check your premises'.
-- [<The Hitchhiker's Guide to the Galaxy>](https://www.youtube.com/watch?v=pmyNitDhMd8) — 'Ask the right question'.
+
 
 
