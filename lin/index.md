@@ -70,7 +70,7 @@ In artificial designs, we work with stakeholders for our audiences whom we choos
 
 
 **1.4 Why & So what**
-![why&so what](images/so what.png)
+![why&so what](images/sowhat.jpg)
 
 At this step, we have found pieces of facts through a large amount of work on research, but not enough. With these disordered information, we need to connect and order them by asking 'why' and 'so what'.
 And asking a few times is not enough as well. It's very annoying, uncomfortable, painful and cruel, but we have to repeat the 2 questions endlessly. Because you will find every time you get different answers and it's hard to tell what are appropriate truly.
