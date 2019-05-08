@@ -12,7 +12,7 @@ My first course of action is to set one, large restriction: no vinyl whatsoever.
 
 Vinyl is in every way convenient as it is toxic. Vinyl can be used for good, especially as permanent signage (since it sticks so well to most anything and degrades so slowly), but we often use vinyl lettering for exhibitions lasting no more than a month or so. Considering that the MICA GD identity is mostly signage and print-based, figuring out how to redirect signage into other mediums was a crucial first step.
 
-# Intro: 2017–2019 
+## Intro: 2017–2019 
 The previous identity was based on the revitalization of Hobo, a typeface that over the years became an often maligned typeface that slowly degraded in credit and appreciation within designers. This is mostly due to the change of tastes in recent years from one-hit/display typefaces to more malleable ones. James Edmondson, typeface designer and previous deisgner of the department identity, made a new typeface called "Hobeaux" to challenge and revitalize and modernize the "glory" of the Hobo's unnatural but unique curves.
 
 ![2017–2019 Signage](Hobeaux_1.JPG)
@@ -26,7 +26,7 @@ As you can tell from these photos, this identity didn't reconsider vinyl; in fac
 ![2017–2019 Collateral](WSChecklist.jpg)
 ![2017–2019 Collateral2](ResourceGuide_Scholarships_Update.jpg)
 
-# Consideration: 2019–??? 
+## Consideration: 2019–??? 
 ![Main signage](MakerGiza_GraphicDesign_Signage.png)
 
 ![Deconstruction of "Giza" typeface](Deconstruction_0.png)
@@ -42,7 +42,7 @@ Figuring out the signage naturally led into creating a typeface in order to main
 
 It might not seem as though choosing typefaces is something to be "sustainable" about, but we often forget that saving time is just as sustainable as conserving materials and energy. Sustainability doesn't necessarily equate to resources but rather sustainable design practices and productions. Our main resource is time, and if there is a way to save/conserve time, then its sustainable. Typeface choice is mainly arbitrary other than for aesthetic differences. Removing this process would clear time to conserve energy for more important tasks (or just to finally relax!).
 
-# Passive vs. Active Audience Participation
+## Passive vs. Active Audience Participation
  In order for a brand to be sustainable, one could argue that 
  What I've showed so far are just permutations/varities of a system that is designed to be interchangable.
 
