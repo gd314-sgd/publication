@@ -53,4 +53,4 @@ Another example of going beyond the identity includes what the department's work
 ![Walkthrough](Walkthrough_Sustainability.jpg)
 
 # Future Developments
-By the time this will be published, more developments will be made to the identity. Who knows, maybe you will see it being used in the coming months! But as of writing this it is yet to be determined. 
+By the time this will be published, more developments will be made to the identity. Who knows, maybe you will see it being used in the coming months! But as of writing this, it is yet to be determined. 
