@@ -13,7 +13,7 @@ Ted Nelson, a pioneering information technologist and philosopher who helped dev
 
 This notion of the intersectionality of knowledge domains led Nelson to invent the concept of hypertext, which is the foundation of the Internet as we know it today: an entangled mass of documents that link to each other using hyperlinks in order to form a network of knowledge, and ultimately, a network of peers, of real people.
 
-![Intertwingularity](images/cabinet_013_rosenberg2_daniel_001.jpg)
+![Intertwingularity](/publication/assets/img/devin/cabinet_013_rosenberg2_daniel_001.jpg)
 
 Today, the Internet is broken. This is because of the planetary-scale centralization of power, resources, and attention into just a few repositories that lie in the hands of global sovereign corporations like Facebook, Google, Twitter, and Amazon. A new Internet is needed, and calls for this new Internet have been answered by projects like the [InterPlanetary File System](https://ipfs.io/) and the [DAT Protocol](https://datproject.org/) — projects that aim to decentralize and dis-intermediate the web, reclaiming information, power, and attention from the hands of the central Internet powers.
 
@@ -54,7 +54,7 @@ Ultimately I only had time to focus on the first two of those features: vendor c
 
 
 ## Website Hours
-![Store Hours](images/Product-1.png)
+![Store Hours](/publication/assets/img/devin/Product-1.png)
 
 In our era of hyperconsumption and constant attention, we're used to thinking of wesbites as something ethereal and always-on: for reasons I suspect most of us have never considered, we simply expect all websites to always be online and functioning. But this is an unsustainable ideal. For reference, around 2% of global carbon emmissions come from data centers powering the web, a market of which Amazon holds over 40%. Amazon's AWS (Amazon Web Services) hosts around 5% of all websites, which includes major players like Netflix, which accounts for 30–40% of all Internet traffic, depending on your source; additionally, [over 70% of all Internet traffic runs through Amazon's northern Virginia data centers](https://www.nextgov.com/analytics-data/2016/01/70-percent-global-internet-traffic-goes-through-northern-virginia/124976/) at some point in its path. Amazon's AWS infrastructure is composed of around 50% renewable energy sources [as of January 2018](https://aws.amazon.com/about-aws/sustainability/sustainability-timeline/), but a large portion of that energy comes from nuclear power, which is non-renewable but low-emissions. [30% of Amazon's energy usage comes from coal.](https://350seattle.org/amazon/) Statistics on Amazon's actual energy usage and emissions are difficult to find, but according to the [2018 IPCC report](https://iopscience.iop.org/article/10.1088/1748-9326/aaf303), the world's combined energy usage in 2017 led to 36.2 gigatonnes of CO2 emissions (that's 36,200,000,000 tons); if 2% of global emissions come from data centers, that means data centers worldwide emit around 724,000,000 tons of carbon per year; if Amazon owns 40% of the data center market and uses 50% renewable energy, a very conservative estimate of their yearly data center carbon emissions is around 144,800,000 metric tons per year. That's a lot of fucking carbon, and this estimate is most likely wrong and far too low.
 
@@ -62,7 +62,7 @@ Giving websites store hours not only makes running a website more environmentall
 
 ## Vendor Carbon Footprint Warnings
 
-![High carbon emissions vendor](images/Product-2.png)
+![High carbon emissions vendor](/publication/assets/img/devin/Product-2.png)
 
 According to [350 Seattle](https://350seattle.org/amazon/) and its sources, Amazon's shipping operations in 2017 emitted at least 19.1 millions metric tons of CO2. This is equivalent to the average yearly energy usage of 2.9 million U.S. homes.
 
@@ -74,9 +74,9 @@ In an effort to encourage users to choose vendors and shipping options with the 
 - Introducing a carbon offset fee (which I called an "Eco-Fee") for users who still choose high-emissions shipping methods.
 - Making the default vendor and shipping method choices the lowest-emissions options so that users are more likely to choose them.
 
-![Friction for high-emissions vendors](images/Product-3.png)
+![Friction for high-emissions vendors](/publication/assets/img/devin/Product-3.png)
 
-![Low-emissions reassurance](images/Product.png)
+![Low-emissions reassurance](/publication/assets/img/devin/Product.png)
 
 ---
 
