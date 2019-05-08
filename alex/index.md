@@ -11,8 +11,8 @@ Vinyl is in every way convenient as it is toxic. Vinyl can be used for good, esp
 # Intro: 2017–2019 
 The previous identity was based on the revitalization of Hobo, a typeface that over the years became an often maligned typeface that slowly degraded in credit and appreciation within designers. This is mostly due to the change of tastes in recent years from one-hit/display typefaces to more malleable ones. James Edmondson, typeface designer and previous deisgner of the department identity, made a new typeface called "Hobeaux" to challenge and revitalize and modernize the "glory" of the Hobo's unnatural but unique curves.
 
-![2017–2019 Signage](Hobeaux_1.JPG)
-![2017–2019 Signage2](Hobeaux_2.JPG)
+![2017–2019 Signage](Hobeaux_1.jpg)
+![2017–2019 Signage2](Hobeaux_2.jpg)
 
 As you can tell from these photos, this identity didn't reconsider vinyl; in fact, it might've embraced it too much to the point of overindulgence. The accessory of the added borders around all signage added more to the identity of Hobeaux, but is too superfluous. Don't think of Edmondson's design as inherently terrible--far from it. But it does consider the aesthetic more so than the underlying consequences of designing something as complex and rendered as his typeface and identity. Below are just a small section of the identity in print collateral. 
 
