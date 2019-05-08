@@ -15,14 +15,6 @@ Bandsintown is a fantastic app for discovering shows for bigger artists that you
 In our Sustainable Graphic Design course, we’ve repeatedly discussed that the most ecological way to design is not at all, and that the most ecological way to exist is the same: Everything we do has an impact on the environment. Sometimes we need to zoom out and see the bigger picture: All day long, all we do is consume. Music, resources, food, everything. And capitalism encourages us to consume as much as we can. I currently do listen to music constantly, so I understand if this is hard to imagine, but maybe I can embrace the natural sounds of the world. Maybe, someone like me, who listens almost all the time, can spend a little less time filling my head with noise, or focus more on making my own music! 
 Ultimately, being conscious of yourself and your energy usage is an important first step to making the world a more sustainable and safe place to be. The more self-aware you are, the less likely you are to be harming the world. 
 
-
-
-
-
-
-
-
-
 [^1]: https://www.gla.ac.uk/media/media_643298_en.pdf
 [^2]: https://globalnews.ca/news/5150481/streaming-music-bad-environment/
 [^3]: https://pitchfork.com/news/emissions-from-music-consumption-reach-unprecedented-high-study-shows/
@@ -30,9 +22,13 @@ Ultimately, being conscious of yourself and your energy usage is an important fi
 [^5]: https://tonedeaf.thebrag.com/just-how-much-do-artists-earn-from-merch-these-days/
 [^6]: https://www.npr.org/sections/allsongs/2013/09/26/226468333/the-good-listener-does-using-spotify-make-you-a-bad-person
 
-extra resources: 
+sources: 
+https://www.gla.ac.uk/media/media_643298_en.pdf
+https://globalnews.ca/news/5150481/streaming-music-bad-environment/
+https://pitchfork.com/news/emissions-from-music-consumption-reach-unprecedented-high-study-shows/
+https://www.billboard.com/articles/news/magazine-feature/7800218/dell-furano-concert-tees-40-years
+https://tonedeaf.thebrag.com/just-how-much-do-artists-earn-from-merch-these-days/
+https://www.npr.org/sections/allsongs/2013/09/26/226468333/the-good-listener-does-using-spotify-make-you-a-bad-person
 https://jhenrypenrose.com/the-sustainability-of-music-streaming
 http://dailytrojan.com/2019/04/21/from-the-soundboard-the-music-industry-must-embrace-ecological-concerns/
-
-
 
