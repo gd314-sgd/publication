@@ -70,7 +70,7 @@ a {
 
 .archive__headings {
 	div {
-		float: left;
+		display: inline-block;
 		padding-bottom: 0.5em;
 	}
 
@@ -81,10 +81,10 @@ a {
 
 .archive__entries__entry {
 	div {
-		float: left;
+		display: inline-block;
 
 		@media (max-width: 700px) {
-			float: none;
+			display: block;
 		}
 	}
 }

@@ -1,5 +1,5 @@
 ---
-short_name: Risa
+short_name: risa
 name: Risa Benedyk
 specialization: Graphic Design
 ---

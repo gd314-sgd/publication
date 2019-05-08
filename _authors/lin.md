@@ -1,5 +1,5 @@
 ---
-short_name: Lin
+short_name: lin
 name: Ruyin Lin
 specialization: Earthling
 ---
