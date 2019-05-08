@@ -38,10 +38,11 @@ Figuring out the signage naturally led into creating a typeface in order to main
 
 It might not seem as though choosing typefaces is something to be "sustainable" about, but we often forget that saving time is just as sustainable as conserving materials and energy. Sustainability doesn't necessarily equate to resources but rather sustainable design practices and productions. Our main resource is time, and if there is a way to save/conserve time, then its sustainable. Typeface choice is mainly arbitrary other than for aesthetic differences. Removing this process would clear time to conserve energy for more important tasks (or just to finally relax!).
 
+# Passive vs. Active Audience Participation
+ In order for a brand to be sustainable, one could argue that 
+ What I've showed so far are just permutations/varities of a system that is designed to be interchangable.
+
 ![Alphabet](MakerGiza_Alphabet.png)
 ![Type Specimen](Screenshot_MakerGiza.png)
 
-# Real-World Challenges and Clients
-
-Considering the real-world implications of making this project and making it a reality, this identity wouldn't have been possible without both support and criticism from the clients. My clients, Brockett Horne, and assistants Melissa Malguy and Karl Ericksen, 
-A series of progress presentations were given between early April onto the final day, May 3. Alongside my 
+ By the time this
