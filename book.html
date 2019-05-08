@@ -42,3 +42,31 @@ Title Page
     {% endfor %}
   </p>
 </div>
+
+<!--
+____________________________________________________
+
+Blank Page
+-->
+<div>&nbsp;</div>
+<div class="_page-break"></div>
+
+<!--
+____________________________________________________
+
+Playing with Printing out Content
+https://evanbrooks.info/bindery/guide/
+-->
+<section id="content">
+  {% for entry in site.entries %}
+    <article>
+      <h2>{{ entry.title | escape }}</h2>
+      <div class="entry-content">
+        {{ entry.content | markdownify }}
+      </div>
+    </article>
+    <div>&nbsp;</div>
+    <div class="_page-break"></div>
+  {% endfor %}
+</section>
+
