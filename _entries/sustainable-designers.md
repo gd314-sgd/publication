@@ -15,8 +15,9 @@ Started by Susannah Sayler and Edward Morris, this team produces art and media s
 They create works for this cause alone ranging from climate change, species extinction, and food and water resources. For their projects they work collaboratively with artists, designers, scientists, writers, and volunteers. 
 
 
-![alt text](/publication/assets/img/claire/Canary-project1)
-![alt text](/publication/assets/img/claire/Canary-project2)
+![The Canary Project](/publication/assets/img/claire/Canary-project1.jpg)
+
+![The Canary Project](/publication/assets/img/claire/Canary-project2.jpg)
 
 ### Project Example
 High Water Line: A public artwork in NYC that marked the water line of 10 feet above-sea level across 70 miles of New York City's waterfront in order to show the effect of climate change. The marks represent how much flooding could take place if climate change continues. Eve Mosher walked the 70 miles and was able to talk to people along the way about climate change, spreading information in that way. 
@@ -86,5 +87,3 @@ Published a book called Design to Renourish, written by Eric Benson and Yvette P
 ### Project Example
 ![boxes and cards on a table with colored bird patterned paper](/publication/assets/img/claire/Renourish.jpg)
 Renourish designed sustainable greeting cards that would benefit the non-profit organization, Trees for Life, in Australia that works to plant native trees. For this project they used 100% post-consumer recycled paper for both the cards and the envelopes. The envelopes were also unbleached. They used vegetable based inks, used digital to plate printing and worked to decrease water consumption. They designed the packaging to show the card designs through a cut out window, eliminating the use of plastic. They worked have the project carbon neutral by offsetting the amount of greenhouse gas emissions produced with Green power. Through their efforts, they were able to donate enough money to Trees for Life to plant over 40,000 trees. 
-
-

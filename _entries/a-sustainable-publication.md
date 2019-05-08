@@ -38,11 +38,4 @@ After I finished my sustainable project, one of my classmates told me about Anni
 ![makeangerangry](https://user-images.githubusercontent.com/42852840/57158067-71a7ba00-6db0-11e9-9886-fd618d218832.jpg)
 ![process](https://user-images.githubusercontent.com/42852840/57158398-4ffb0280-6db1-11e9-90aa-4bdfca83b541.jpg)
 
-
-
-
-
-
-
-
 [Colophon Foundry](https://www.colophon-foundry.org)
