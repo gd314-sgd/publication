@@ -1,0 +1,174 @@
+body {
+  background: black;
+  height: 100vh;
+
+  -webkit-touch-callout: none; /* iOS Safari */
+   -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+      -moz-user-select: none; /* Firefox */
+       -ms-user-select: none; /* Internet Explorer/Edge */
+           user-select: none; /* Non-prefixed version, currently
+                                 supported by Chrome and Opera */
+
+  color: white;
+}
+
+.row {
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+section {
+  max-width: 1200px;
+  width: 100%;
+  margin: auto;
+}
+
+.hero {
+  height: 100vh;
+  /* border-bottom: 2px solid black; */
+  justify-content: center;
+  -ms-align-items: center;
+  align-items: center;
+  padding-bottom: 4em;
+
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  height: 100vh;
+}
+
+.hero h1 {
+  line-height: 1;
+  position: absolute;
+  top: 0;
+  font-size: 4em;
+  font-family: bookmania, serif;
+  font-weight: 300;
+  font-style: normal;
+  z-index: 2;
+  text-align: center;
+}
+
+.hero h2 {
+  position: absolute;
+  font-size: 2em;
+  bottom: 0;
+  text-align: center;
+  z-index: 2;
+  letter-spacing: -1px;
+  font-weight: 400;
+}
+
+.manifesto, .signatories {
+  display: block;
+}
+
+.how-to {
+  margin-bottom: 6em;
+}
+
+.manifesto .row div {
+  border-top: 4px solid white;
+  border-bottom: 2px solid white;
+}
+
+.signatories .row div {
+  border-bottom: 2px solid white;
+}
+
+.peers .row div {
+  border-bottom: 2px solid white;
+}
+
+.peers li {
+  word-wrap:break-word;
+}
+
+.manifesto .row div:first-child, .signatories .row div:first-child, .how-to .row div:first-child, .peers .row div:first-child {
+  border-right: 1px solid white;
+}
+
+@media (max-width: 768px) {
+  .manifesto .row div:first-child, .signatories .row div:first-child, .how-to .row div:first-child, .peers .row div:first-child {
+    border-right: none;
+  }
+
+  .manifesto .row div, .signatories .row div, .peers .row div:first-child {
+    border-top: none;
+    border-bottom: 2px solid white;
+  }
+}
+
+.manifesto .row div:nth-child(2) p, .row div:nth-child(2) ul, ol {
+  font-size: 1.8em;
+}
+
+.signatories .row div:nth-child(2) ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.manifesto blockquote {
+  padding: 0;
+  margin: 0;
+  font-size: 1em;
+  margin-top: 1.5em;
+  line-height: 1.4;
+}
+
+.manifesto h3 {
+  font-size: 3rem;
+  margin-top: 0.5em;
+  margin-bottom: 0;
+  line-height: 1;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+svg {
+  display: block;
+  z-index: 1;
+  mix-blend-mode: difference;
+  max-width: 2000px;
+}
+
+#projection-menu {
+  display: none;
+}
+
+.stroke {
+  fill: none;
+  stroke: blue;
+  stroke-width: 3px;
+}
+
+.fill {
+  fill: transparent;
+}
+
+.graticule {
+  fill: none;
+  stroke: blue;
+  stroke-width: .5px;
+  stroke-opacity: .5;
+}
+
+.land {
+  fill: blue;
+}
+
+.boundary {
+  fill: none;
+  stroke: transparent;
+  stroke-width: .5px;
+}
+
+.img {
+  position: absolute;
+  z-index: 0;
+}

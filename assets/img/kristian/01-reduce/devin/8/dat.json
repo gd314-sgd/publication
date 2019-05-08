@@ -1,0 +1,8 @@
+{
+  "experimental": {
+    "apis": [
+      "datPeers"
+    ]
+  },
+  "title": "Vacuus Mundus"
+}
