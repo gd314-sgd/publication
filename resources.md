@@ -1,6 +1,6 @@
 # Bibliography/Resources
 
-## Readings.
+## Readings
 
 ### Required Class Readings
 
