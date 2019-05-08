@@ -1,6 +1,10 @@
-# Reduce, Reuse, Recycle: Strategies for Designing?
+---
+title: 'Reduce, Reuse, Recycle: Strategies for Designing?'
+author: 'kristian'
+theme: 'Waste = Food'
+---
 
-The three Rs (Reduce, Reuse, Recycle) have been an imporant aspect of the environmental ... How can we use the 3 Rs as design strategies?
+The three Rs (Reduce, Reuse, Recycle[^3R] (Not to be confused with Reading, Writing, Arithmatic)) have been an imporant aspect of the environmental ... How can we use the 3 Rs as design strategies?
 
 ## Waste = Food
 We kicked off the term with a reading from _Cradle to Cradle_ with the premise that waste is a problematic concept. Nature produces no waste; outputs from one system are always inputs for another. Our current design and consumer cultures do not operate in this way. Karrie Jacobs in her essay _NAME_ points this out very clearly… Designers make garbage.
@@ -65,3 +69,5 @@ Why was/is this useful? what other questions does this raise?
 When you recite the three R's, they are in an intentional order -- easiest to hardest; pre- to post-; low input to high input. 
 
 Entropy graph?
+
+[^3R]: This is also referred to as the "[waste hierarchy](https://en.wikipedia.org/wiki/Waste_hierarchy)" 
