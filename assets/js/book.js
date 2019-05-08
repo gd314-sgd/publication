@@ -79,21 +79,16 @@ function toggleCropMarks(e) {
 
 
 // Trying to get started 
-let linksAsFootnotes = Bindery.Footnote({
-  selector: 'p > a',
-  render: (element, number) => `${number}: Link to ${element.href}`;
-});
-
-let runningHeaders = Bindery.RunningHeader({
-  render: (page) => page.isLeft
-    ? `${page.number} · Jan Tschichold`
-    : `The Form of the Book · ${page.number}`;
-});
-
-Bindery.makeBook({
-  content: {
-    selector: '#book'
-    url: '/book.html',
-  },
-  rules: [ linksAsFootnotes, runningHeaders ]
-});
+// Bindery.makeBook({
+//   content: {
+//     selector: '#book'
+//     url: '/book.html',
+//   },
+//   rules: [ 
+//     Bindery.RunningHeader({
+//       render: (page) => page.isLeft
+//         ? `${page.number}`
+//         : `${page.number}`;
+//     });
+//    ]
+// });

@@ -35,6 +35,12 @@
               position: 'before',
               continue: 'right'
             }),
+            Bindery.RunningHeader({
+              render: (page) => {
+                if (page.isLeft) return `${page.number} · ${page.heading.h1 || ''} `;
+                else if (page.isRight) return `${page.heading.h2 || ''} · ${page.number}`;
+              },
+            }),
           ]
         });
       </script>
