@@ -3,9 +3,6 @@ title: On Remaking Trash into Design
 author: katie
 theme: Trash
 ---
-
-# On Remaking Trash into Design
-
 As a graphic designer, I am not going to invent more efficient technology or change government policy on carbon emissions. Still, designers serve as translators between the organizations that shape our world and the people that live in it. We therefore have the power to do much more than constantly be making new things wrapped in a slick, modern aesthetic. Rather, we can define what sustainable change should look like and communicate the hidden consequences of our consumption.
 
 I believe this goes beyond the popular aesthetic of sustainable design, a term that encompasses a range of products from the genuinely innovative to “green-washed”[^1] marketing devices. “Green” products may include those that use less plastic or material overall, are organic, compostable, made from recycled materials, chemical-free, multi-use, reusable, or, are literally green or “natural”-colored. Regardless of what benefit the product actually does or doesn’t have for the environment, it will almost always look a certain way, and communicate a certain story to consumers: that we can keep making and consuming in the same way we always have, but be a little “less bad”[^2] about it.
