@@ -1,11 +1,8 @@
 ---
 title: Designing a Low-Energy Portfolio Website
-author: Claire Evans
+author: claire
 theme: Webdesign
 ---
-
-#Designing a Low-Energy Portfolio Website
-##Claire Evans | 2019
 
 I started making my own portfolio website on Adobe's portfolio feature, thankful that I would not have to spend more money on a domain and server account, as well as the already coded templates—simple and easy. However, I know very little about the ways of the web, the way that you are supposed to optimize images to decrease the file sizes, and the way the servers have to send information back and forth constantly in order to load content onto a site. So, I embraced my large images, ability to put as much content as I would want on the site, and the amazing animation features that work throughout the site that would be difficult for me to learn myself.
 

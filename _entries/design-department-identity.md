@@ -15,28 +15,28 @@ Vinyl is in every way convenient as it is toxic. Vinyl can be used for good, esp
 # Intro: 2017–2019 
 The previous identity was based on the revitalization of Hobo, a typeface that over the years became an often maligned typeface that slowly degraded in credit and appreciation within designers. This is mostly due to the change of tastes in recent years from one-hit/display typefaces to more malleable ones. James Edmondson, typeface designer and previous deisgner of the department identity, made a new typeface called "Hobeaux" to challenge and revitalize and modernize the "glory" of the Hobo's unnatural but unique curves.
 
-![2017–2019 Signage](Hobeaux_1.JPG)
-![2017–2019 Signage2](Hobeaux_2.JPG)
-![2017–2019 Signage3](Hobeaux_3.JPG)
-![2017–2019 Signage4](Hobeaux_4.JPG)
-![2017–2019 Signage5](Hobeaux_5.JPG)
+![2017–2019 Signage](/publication/assets/img/alex/Hobeaux_1.JPG)
+![2017–2019 Signage2](/publication/assets/img/alex/Hobeaux_2.JPG)
+![2017–2019 Signage3](/publication/assets/img/alex/Hobeaux_3.JPG)
+![2017–2019 Signage4](/publication/assets/img/alex/Hobeaux_4.JPG)
+![2017–2019 Signage5](/publication/assets/img/alex/Hobeaux_5.JPG)
 
 As you can tell from these photos, this identity didn't reconsider vinyl; in fact, it might've embraced it too much to the point of overindulgence. The accessory of the added borders around all signage added more to the identity of Hobeaux, but is too superfluous. Don't think of Edmondson's design as inherently terrible--far from it. But it does consider the aesthetic more so than the underlying consequences of designing something as complex and rendered as his typeface and identity. Below are just a small section of the identity in print collateral. 
 
-![2017–2019 Collateral](WSChecklist.jpg)
-![2017–2019 Collateral2](ResourceGuide_Scholarships_Update.jpg)
+![2017–2019 Collateral](/publication/assets/img/alex/WSChecklist.jpg)
+![2017–2019 Collateral2](/publication/assets/img/alex/ResourceGuide_Scholarships_Update.jpg)
 
 # Consideration: 2019–??? 
-![Main signage](MakerGiza_GraphicDesign_Signage.png)
+![Main signage](/publication/assets/img/alex/MakerGiza_GraphicDesign_Signage.png)
 
-![Deconstruction of "Giza" typeface](Deconstruction_0.png)
+![Deconstruction of "Giza" typeface](/publication/assets/img/alex/Deconstruction_0.png)
 
 In order for the brand to connect to the larger scope of the school, but also play on the idea that the department is subversive, I took MICA’s iconic “Giza” typeface and took apart the letters. I then reconstructed the pieces into an entirely new typeface, playing into the idea of reusing and repurposing digital materials. By doing this, not only does this create interesting opportunities for modular type, but also give form to pattern-making, iconography and wayfinding (arrows). Large stencils were fashioned so the lettering can be used as a form of permanent signage for the floor.
 
 This new typeface is called "Maker Giza," playying on the new role of "designer as maker." The notion of a "maker" is rooted in traditional crafts and practices, which is what "Maker Giza" aims to do through its subversion of signage and typographic treatment. 
 
-![Stencil outline](MakerGiza_StencilOutline.jpg)
-![Stencil outline2](Deconstruction_Stencil_1.JPG)
+![Stencil outline]/publication/assets/img/alex/(MakerGiza_StencilOutline.jpg)
+![Stencil outline2](/publication/assets/img/alex/Deconstruction_Stencil_1.JPG)
 
 Figuring out the signage naturally led into creating a typeface in order to maintain consistency for print deliverables.  Choosing the body text came down to convenience, conservation of energy and accessibility. By choosing the default typeface native to InDesign and Illustrator, typefaces like “Minion Pro” and “Myriad Pro” can be used by anyone, anywhere with Creative Cloud. Not only do these 2 typefaces (especially “Minion Pro”) offer a wide number of weights, they also compliment the modular “Maker Giza” typeface with their humanistic undertones. 
 
@@ -46,7 +46,7 @@ It might not seem as though choosing typefaces is something to be "sustainable" 
  In order for a brand to be sustainable, one could argue that 
  What I've showed so far are just permutations/varities of a system that is designed to be interchangable.
 
-![Alphabet](MakerGiza_Alphabet.png)
-![Type Specimen](Screenshot_MakerGiza.png)
+![Alphabet](/publication/assets/img/alex/MakerGiza_Alphabet.png)
+![Type Specimen](/publication/assets/img/alex/Screenshot_MakerGiza.png)
 
  By the time this
