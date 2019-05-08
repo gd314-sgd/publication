@@ -76,19 +76,3 @@ function toggleCropMarks(e) {
     document.documentElement.classList.add("_cropmarks");
   }
 }
-
-
-// Trying to get started 
-// Bindery.makeBook({
-//   content: {
-//     selector: '#book'
-//     url: '/book.html',
-//   },
-//   rules: [ 
-//     Bindery.RunningHeader({
-//       render: (page) => page.isLeft
-//         ? `${page.number}`
-//         : `${page.number}`;
-//     });
-//    ]
-// });

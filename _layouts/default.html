@@ -4,9 +4,9 @@
     {% include meta.html %}
   </head>
   <body {% if page.class %}class="{{ page.class }}"{% endif %}>
+    {% include navigation.html %}
     
     <main id="content">
-      {% include navigation.html %}
       {{ content }}
     </main>
 
@@ -37,7 +37,7 @@
             }),
             Bindery.RunningHeader({
               render: (page) => {
-                if (page.isLeft) return `${page.number} · ${page.heading.h1 || ''} `;
+                if (page.isLeft) return `${page.number} · ${'MICA Sustainable Graphic Design'} `;
                 else if (page.isRight) return `${page.heading.h2 || ''} · ${page.number}`;
               },
             }),
