@@ -1,5 +1,5 @@
 ---
-short-name: Claire
+short_name: claire
 name: Claire Evans
 specialization: Graphic Design
 ---

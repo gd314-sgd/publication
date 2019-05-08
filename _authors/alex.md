@@ -1,5 +1,5 @@
 ---
-short_name: Alex
+short_name: alex
 name: Alexandra Petrenko
 specialization: Motion Designer
 ---
