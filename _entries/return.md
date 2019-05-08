@@ -4,7 +4,7 @@ author: lin
 theme: daily life
 ---
 
-![return](/publication/assets/img/lin/lin/return.png)
+![return](/publication/assets/img/lin/return.png)
 When we keep running rapidly, sometimes we should slow down and look back towards the point where we started, especially while we can see there're full of dangers ahead that feel not like what we expected before. Maybe we can think about changing our direction to correct it and question ourselves, what if our destination, is in the opposite way?
 
 
@@ -17,7 +17,7 @@ The RETURN project so far includes 3 part.
 ---
 
 ## The methodology map
-![sustainability map](/publication/assets/img/lin/lin/sustainable.jpg)
+![sustainability map](/publication/assets/img/lin/sustainable.jpg)
 I will explain it by answering the following questions:
 
 1. How to be sustainable?
@@ -38,7 +38,7 @@ _Mission_
 
 
 ### 1. How to be sustainable?
-![tree](/publication/assets/img/lin/lin/tree.jpg)
+![tree](/publication/assets/img/lin/tree.jpg)
 - 1.1 The Environment of Design
 - 1.2 Ecology System
 - 1.3 Humanity System
@@ -53,21 +53,21 @@ _Mission_
 
 **1.1 The Environment of Design** 
 
-![adapt](/publication/assets/img/lin/lin/adapt.jpg)
+![adapt](/publication/assets/img/lin/adapt.jpg)
 
 In different environments grow different kinds of trees.
 Each design is run by people for the audience, at some place and some time. They're the 5W questions of design -- who, where, when, what and why. In order to let our design survive, it's worthy to spend a lot on the previous research and make decisions according to the facts and the available recourses we find, as much as we can.
 
 
 **1.2 Ecology System**
-![adapt](/publication/assets/img/lin/lin/ecology.jpg)
+![adapt](/publication/assets/img/lin/ecology.jpg)
 
 Geography decides what kinds of natural resources there are and nature will use them economically. All the systems are combined and share the materials. They run in loops to let the limited materials sustain. What's more, there're the variation and iteration to keep improving the changeable systems.
 If designs exist in this physical world, they have to take some materials and turn into something for designers' reasons.
 
 
 **1.3 Humanity System**
-![humanity](/publication/assets/img/lin/lin/humanity.jpg)
+![humanity](/publication/assets/img/lin/humanity.jpg)
 
 People's mind is the foundation of our system. Our bodies are born from nature so the rules of Ecology system work on us as well and there's no big difference.
 
@@ -75,7 +75,7 @@ In artificial designs, we work with stakeholders for our audiences whom we choos
 
 
 **1.4 Why & So what**
-![why&so what](/publication/assets/img/lin/lin/sowhat.jpg)
+![why&so what](/publication/assets/img/lin/sowhat.jpg)
 
 At this step, we have found pieces of facts through a large amount of work on research, but not enough. With these disordered information, we need to connect and order them by asking 'why' and 'so what'.
 And asking a few times is not enough as well. It's very annoying, uncomfortable, painful and cruel, but we have to repeat the 2 questions endlessly. Because you will find every time you get different answers and it's hard to tell what are appropriate truly.
@@ -83,34 +83,34 @@ In addition, ask 'why' before 'so what'. It's very easy that we jump into design
 
 
 **1.5 Time & Size Scales**
-![scale](/publication/assets/img/lin/lin/scale.jpg)
+![scale](/publication/assets/img/lin/scale.jpg)
 Asking in different kinds of scales of time and sizes can help us view things from all angles. 
 In time, the history of the object is very important. Because things usually happen in circulations so it might already happen before. It will save us a lot if we spend enough on the previous. But the solution worked before doesn't mean it will work for now and the future. That can be our reference but of course, we can not just copy it. We usually follow the traditional ways and expect them to solve the changeable problems. 
 In sizes, different scales of designs need different volumes of resource and impact with different degrees. 
 
 
 **1.6 Finding advantages**
-![opportunity](/publication/assets/img/lin/lin/opportunity.jpg)
+![opportunity](/publication/assets/img/lin/opportunity.jpg)
 There're problems everywhere and all the time. For most situations, we can do nothing at all. It's great to realize don't try to tackle something when we don't have the ability to. Just do your part, as best as you can.
 But changing small things with our limited capacity can also make a difference, especially if they're the keys.
 We have to keep positive among those disappointing facts and design hopes and win-win.
 
 
 **1.7 What can we do now?**
-![design question](/publication/assets/img/lin/lin/why.png)
+![design question](/publication/assets/img/lin/why.png)
 
 Now we can decide what we can design by answering the 5W questions after great efforts on research,finally. But as you can see, we are just at the halfway point, but it's the beginning of our influence to the world. 
 Next, we need to be more brave yet careful for we're going to gain and lose physically in this material world of conservation, by action research.
 
 
 **1.8 Finding shortages**
-![challenge](/publication/assets/img/lin/lin/challenge.jpg)
+![challenge](/publication/assets/img/lin/challenge.jpg)
 When we are very optimistic about how we are going to change the world and save the planet, it's time to hold on and reflect the challenges hiding behind the opportunities we chose. To calculate the risks, costs, and effects in different time and size scales as well as on different people. 
 The reflection can protect others and us.
 
 
 **1.9 Testing prototypes**
-![test](/publication/assets/img/lin/lin/test.jpg)
+![test](/publication/assets/img/lin/test.jpg)
 In order to make a difference, we have to take risks and pay for it, but we can make more appropriate choices after reflection ,or still can't. In case hurting others and ourselves, we can make a small step first, quickly and easily. Then to walk step by step until we can run. 
 If we fall, we can have a rest to think about it and then get up again while correcting our direction from time to time by GPS, just in case you are running into the wrong way by a slight deviation in the beginning.
 Only after we practicing the knowledge we learnt, we will see things are often different from our common senses and cognition. Sometimes they may prove our hard-working research is totally wrong.It is frustrating, but it doesn't mean to be meaningless. That's also an efficient way of learning.
@@ -122,7 +122,7 @@ Then we can keep questioning 'why' and 'so what' about them, and start another l
 
 The 10 suggestions are also combined with each other and we need to apply them all at the same time.
 
-![rules](/publication/assets/img/lin/lin/rules.jpg)
+![rules](/publication/assets/img/lin/rules.jpg)
 
 The whole process is complex, tough and cruel. Therefore nothing comes easily. 
 Every existence is a unique miracle already.
@@ -207,7 +207,7 @@ We feel happy when close to beautiful nature, naturally, and from the bottom of 
 
 
 ### 4. How to flourish?
-![fourish map](/publication/assets/img/lin/lin/flourish.png)
+![fourish map](/publication/assets/img/lin/flourish.png)
 
 The key to be flourishing is diversity and balance.
 The opposite way is singularity and lopsidedness.
@@ -229,7 +229,7 @@ to visualize the invisible.
 Show them,
 so that people can realize.
 
-![trees](/publication/assets/img/lin/lin/trees.png)
+![trees](/publication/assets/img/lin/trees.png)
 
 Enjoy the difficulties, if you figure out what you really want after answering all the questions and trying everything, including giving up. No one can promise that the way you choose will be easy or right, for you. 
 
