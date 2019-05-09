@@ -29,6 +29,10 @@
       <script>
         Bindery.makeBook({ 
           content: '#content',
+          pageSetup: {
+            size: { width: '5.5in', height: '8.5in' },
+            margin: { top: '60pt', inner: '48pt', outer: '60pt', bottom: '72pt' },
+          },
           rules: [
             Bindery.PageBreak({
               selector: '._page-break',
