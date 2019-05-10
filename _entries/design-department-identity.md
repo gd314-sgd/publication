@@ -24,7 +24,7 @@ The previous identity was based on the revitalization of Hobo, a typeface that o
 As you can tell from these photos, this identity didn't reconsider vinyl; in fact, it might've embraced it too much to the point of overindulgence. The accessory of the added borders around all signage added more to the identity of Hobeaux, but is too superfluous. Don't think of Edmondson's design as inherently terrible--far from it. But it does consider the aesthetic more so than the underlying consequences of designing something as complex and rendered as his typeface and identity. Below are just a small section of the identity in print collateral. 
 
 ![2017–2019 Collateral](/publication/assets/img/alex/WSChecklist.jpg)
-![2017–2019 Collateral2](/publication/assets/img/alex/ResourceGuide_Scholarships_Update.jpg)
+![2017–2019 Collateral2](/publication/assets/img/alex/ResourceGuide_Scholarships_Update_Page_1.jpg)
 
 # Consideration: 2019–??? 
 ![Main signage](/publication/assets/img/alex/MakerGiza_GraphicDesign_Signage.png)
@@ -35,7 +35,7 @@ In order for the brand to connect to the larger scope of the school, but also pl
 
 This new typeface is called "Maker Giza," playying on the new role of "designer as maker." The notion of a "maker" is rooted in traditional crafts and practices, which is what "Maker Giza" aims to do through its subversion of signage and typographic treatment. 
 
-![Stencil outline]/publication/assets/img/alex/(MakerGiza_StencilOutline.jpg)
+![Stencil outline](/publication/assets/img/alex/(MakerGiza_StencilOutline.jpg)
 ![Stencil outline2](/publication/assets/img/alex/Deconstruction_Stencil_1.JPG)
 
 Figuring out the signage naturally led into creating a typeface in order to maintain consistency for print deliverables.  Choosing the body text came down to convenience, conservation of energy and accessibility. By choosing the default typeface native to InDesign and Illustrator, typefaces like “Minion Pro” and “Myriad Pro” can be used by anyone, anywhere with Creative Cloud. Not only do these 2 typefaces (especially “Minion Pro”) offer a wide number of weights, they also compliment the modular “Maker Giza” typeface with their humanistic undertones. 
