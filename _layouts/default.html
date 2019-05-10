@@ -29,6 +29,10 @@
       <script>
         Bindery.makeBook({ 
           content: '#content',
+          pageSetup: {
+            size: { width: '5.5in', height: '8.5in' },
+            margin: { top: '60pt', inner: '48pt', outer: '60pt', bottom: '72pt' },
+          },
           rules: [
             Bindery.PageBreak({
               selector: '._page-break',
@@ -40,6 +44,13 @@
                 if (page.isLeft) return `${page.number} · ${'MICA Sustainable Graphic Design'} `;
                 else if (page.isRight) return `${page.heading.h2 || ''} · ${page.number}`;
               },
+            }),
+            // Bindery.Footnote({
+            //   selector: 'p > a',
+            //   render: (element, number) => `${number}: Link to ${element.href}`,
+            // }),
+            Bindery.FullBleedSpread({
+              selector: '.big-figure',
             }),
           ]
         });
