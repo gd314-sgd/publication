@@ -1,6 +1,6 @@
 ---
-short_name: greg
+short_name: Greg
 name: Greg Fisk
 specialization: Brand Designer
 ---
-Short author bio goes here.
+Greg Fisk is a freelance art director based in the US. He's currently pursuing an MFA in Graphic Design at MICA in Baltimore, MD.
