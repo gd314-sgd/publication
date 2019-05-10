@@ -16,8 +16,8 @@ Started by Susannah Sayler and Edward Morris, this team produces art and media s
 They create works for this cause alone ranging from climate change, species extinction, and food and water resources. For their projects they work collaboratively with artists, designers, scientists, writers, and volunteers. 
 
 
-![alt text](/publication/assets/img/claire/Canary-project1)
-![alt text](/publication/assets/img/claire/Canary-project2)
+![alt text](/publication/assets/img/claire/Canary-project1.jpg)
+![alt text](/publication/assets/img/claire/Canary-project2.jpg)
 
 ### Project Example
 High Water Line: A public artwork in NYC that marked the water line of 10 feet above-sea level across 70 miles of New York City's waterfront in order to show the effect of climate change. The marks represent how much flooding could take place if climate change continues. Eve Mosher walked the 70 miles and was able to talk to people along the way about climate change, spreading information in that way. 

@@ -44,10 +44,19 @@ Blank Page
 <div>&nbsp;</div>
 <div class="_page-break"></div>
 
-<h3>Table of Contents</h3>
-<ul class="toc">
-  <li><a href="#section1">First chapter title</a></li>
-</ul>
+<h2>Contents</h2>
+<div class="toc">
+  {% for entry in site.entries %}
+  {% assign author = site.authors | where: 'short_name', entry.author | first %}
+  <label class="toc-item">
+    <div class="toc-pg" data-toc="{{ page.title }}">
+    </div>
+    <h4>
+      {{ entry.title }} / {{ author.name }}
+    </h4>
+  </label>
+  {% endfor %}
+</div>
 
 
 <div>&nbsp;</div>
@@ -63,7 +72,7 @@ https://evanbrooks.info/bindery/guide/
   {% for entry in site.entries %}
     {% assign author = site.authors | where: 'short_name', entry.author | first %}
     <article>
-      <h1>{{ entry.title | escape }}</h1>
+      <h1 data-change-running-head data-id="{{ entry.title | slugify }}">{{ entry.title | escape }}</h1>
       <h4><a href="{{ author.url | relative_url }}">{{ author.name }}</a></h4>
       <div class="entry-content">
         {{ entry.content | markdownify }}

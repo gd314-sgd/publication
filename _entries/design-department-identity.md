@@ -21,7 +21,6 @@ The previous identity was based on the revitalization of Hobo, a typeface that o
 
 As you can tell from these photos, this identity didn't reconsider vinyl; in fact, it might've embraced it too much to the point of overindulgence. The accessory of the added borders around all signage and collateral added more to the identity of Hobeaux, but is too superfluous. Don't think of Edmondson's design as inherently terrible--far from it. But it does consider the aesthetic more so than the underlying consequences of designing something as complex and rendered as his typeface and identity. 
 
-![2017–2019 Collateral](/publication/assets/img/alex/WSChecklist.jpg)
 ![2017–2019 Collateral2](/publication/assets/img/alex/ResourceGuide_Scholarships_Update_Page_1.jpg)
 
 # Consideration: 2019–??? 
