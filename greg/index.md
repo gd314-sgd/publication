@@ -1,4 +1,4 @@
-# Ground Up Sustainability Design Update
+# Ground-Up Sustainability Design Update
 ## Why did you pick this project to improve?
 School projects often ignore real life implications that arise through the process of making and implementing. It’s easy to dream too big, deeming your work unachievable in the context of real life. For my project I wanted to take a school project and turn it into something achievable. Something I could actually produce and share with the world beyond my portfolio.
 
