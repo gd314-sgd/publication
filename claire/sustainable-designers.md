@@ -25,6 +25,7 @@ https://www.wearefuterra.com/
 
 ### Who They Are
 Futerra is a sustainability consultancy agency working simultaneously as a creative agency.  They work with clients that are promoting sustainably positive change. They started in the UK and have branched out to locations in Stockholm, New York, and Mexico.
+
 ### What They Do Differently
 They are majority owned and led by a group of women, and they are one the United Kingdom's first B-Corporation, which essentially means an ethical business that, "commit to hitting social and environmental goals, alongside financial ones" (https://www.businessinsider.com/b-corporation-uk-2015-9 http://futerra.alchemy.digital/about/)
 
@@ -33,6 +34,7 @@ They created a "Selling Sustainability" open-source guide for businesses that ex
 ![a man in a wet suit next to a small motor boat on a lake with the caption, "my wild life."](/publication/assets/img/claire/futerra1.jpg)
 ![an excited young boy on a rock in a lake holding a crab with the caption, "my show and tell."](/publication/assets/img/claire/futerra2.jpg)
 ![a smiling young woman next to a canal holding a trash bag with the caption, "my city break."](/publication/assets/img/claire/futerra3.jpg)
+
 ### Project Example
 The Wildlife Trusts: This charity, The Wildlife Trusts, has 800,000 members dedicated to save the existing nature in the United Kingdom. They decided to hold a campaign to make more people in the UK understand the importance and value of nature in the nation. The Futerra design group created a campaign website, short-films, workshops, and print and social media designs. They created a series of images of people a part of the Wildlife trust who regularly enjoy nature and the activities they do in nature, emphasizing the importance of nature in their lives. The slogan used throughout was "my wildlife," and filling in the wildlife with catchphrases related to their activity. They received 200,000 views on their videos, 27,000 new members that will help to contribute more funds, and 325,000 sessions on their website. This campaign helped to initiate more care and awareness on the nature that is left in their nation, and strived to change people's attitudes towards it. I am unsure if their design practices in the process strived to make sustainable choices such as using nontoxic inks; however, this work and the rest of their work campaigns people for more environmental sustainability awareness and understanding in people's everyday lives. 
 
@@ -46,7 +48,6 @@ A visual communication studio that began in 1991 and specialize in social commun
 
 ### What They Do Differently
 They focus on the full life cycle of every product they make, and they place close attention to any waste created. They use a 5 step plan to make sure that they are being as sustainable as possible. 1. End life: they work to use recycled materials or use materials that are completely recyclable. 2: Usability and user experience: in what ways can they reduce resources and achieve their end goal. 3. Profile producing companies: using production companies that use environmentally safe processes. 4. Edo-design strategies: making design decisions that have less impact such as material choice, waste decreasing forms, inks, and how things join or finish (not using something like glue which makes the material unrecyclable at the end). 5. Change agents: designing to promote more sustainable behaviors from the consumers or clients.
-
 
 ### Project Example
 ![an upright calendar with a large, black hexagonal printed pattern](/publication/assets/img/claire/lapage.jpg)
@@ -73,6 +74,7 @@ They create sustainability reports for their clients, allowing there to be trans
 ![an image scan of an open book with environmental statistics](/publication/assets/img/claire/Modern_Species1.jpg)
 ![an image scan of an open book with Organic Valley's vision for sustainability mission](/publication/assets/img/claire/Modern_Species2.jpg)
 ![image scan of open book with ways Organic Valley is sustainable on their farm](/publication/assets/img/claire/Modern_Species3.jpg)
+
 ### Project Example
 Sustainability Report for Organic Valley Farms: They created a magazine brochure to release their sustainability report and created their campaign graphics and sales representation and handout. Thought the final product does not look different from other design projects, they were able to save 2,093 pounds of greenhouse gases by using post-consumer recycled paper. They saved 40-60% of the end project's budget by designing the content to fit the press sheets and having a cover with the same paper as the book's content. They used vegetable based UV inks that are low-VOC, and the paper used was certified by the Forest, Stewardship Counsel. The remarkable thing about this project is that they achieved all of these goals without the final product looking any different from other designs that meet none of these sustainability standards. It is up to us to care and make it happen. 
 
@@ -83,6 +85,7 @@ https://re-nourish.org/
 
 ### Who They Are
 An Australia based non-profit organization that advocated for more sustainable graphic design practices. They provide tools such as a project calculator which allows you to input all the your project specifications and calculates waste created and then informs ways in which you can reduce your waste for your project. 
+
 ### What They Do Differently
 Published a book called Design to Renourish, written by Eric Benson and Yvette Perullo. It is a book written for graphic designers that, "helps to integrate sustainability into their workflow through design process called systems thinking. This process asks the graphic designer to approach a design problem by being more informed and aware of and influenced by the impacts that materials and vendor choices have on one another, the planet, and consequently on us" (https://re-nourish.org/design-to-renourish/).
 
