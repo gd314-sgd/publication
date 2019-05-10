@@ -52,6 +52,15 @@
             Bindery.FullBleedSpread({
               selector: '.big-figure',
             }),
+            Bindery.PageReference({
+              selector: ".toc a",
+              replace: (element, number) => {
+                let row = document.createElement('div');
+                row.innerHTML = `${element.textContent}`;
+                row.innerHTML += `<span style='float: right;'>${number}</span>`;
+                return row;
+              }
+            }),
           ]
         });
       </script>

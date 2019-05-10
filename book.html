@@ -44,6 +44,15 @@ Blank Page
 <div>&nbsp;</div>
 <div class="_page-break"></div>
 
+<h3>Table of Contents</h3>
+<ul class="toc">
+  <li><a href="#section1">First chapter title</a></li>
+</ul>
+
+
+<div>&nbsp;</div>
+<div class="_page-break"></div>
+
 <!--
 ____________________________________________________
 
@@ -52,9 +61,10 @@ https://evanbrooks.info/bindery/guide/
 -->
 <section id="content">
   {% for entry in site.entries %}
+    {% assign author = site.authors | where: 'short_name', entry.author | first %}
     <article>
-      <h2>{{ entry.title | escape }}</h2>
-      <h4>{{ author.name }}</h4>
+      <h1>{{ entry.title | escape }}</h1>
+      <h4><a href="{{ author.url | relative_url }}">{{ author.name }}</a></h4>
       <div class="entry-content">
         {{ entry.content | markdownify }}
       </div>
