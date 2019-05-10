@@ -1,4 +1,4 @@
-# Ground Up Sustainability Design Update
+# Ground-Up Sustainability Design Update
 ## Why did you pick this project to improve?
 School projects often ignore real life implications that arise through the process of making and implementing. It’s easy to dream too big, deeming your work unachievable in the context of real life. For my project I wanted to take a school project and turn it into something achievable. Something I could actually produce and share with the world beyond my portfolio.
 
@@ -40,5 +40,20 @@ I looked at the Bauhaus, The New School NY, and several other models for educati
 
 ## final images
 ![Thesis Exhibition](images/Artboard-1-copy.jpg)
+
 ![Thesis Exhibition](images/Artboard-2.jpg)
+
 ![Thesis Exhibition](images/Artboard-4.jpg)
+
+## risograph
+![Thesis Exhibition](images/Scan-3.jpg)
+
+![Thesis Exhibition](images/Scan-5.jpg)
+
+![Thesis Exhibition](images/Scan-6.jpg)
+
+![Thesis Exhibition](images/Scan-7.jpg)
+
+![Thesis Exhibition](images/Scan-8.jpg)
+
+![Thesis Exhibition](images/Scan-9.jpg)
