@@ -45,10 +45,10 @@
                 else if (page.isRight) return `${page.heading.h2 || ''} · ${page.number}`;
               },
             }),
-            Bindery.Footnote({
-              selector: 'p > a',
-              render: (element, number) => `${number}: Link to ${element.href}`,
-            }),
+            // Bindery.Footnote({
+            //   selector: 'p > a',
+            //   render: (element, number) => `${number}: Link to ${element.href}`,
+            // }),
             Bindery.FullBleedSpread({
               selector: '.big-figure',
             }),

@@ -54,7 +54,7 @@ https://evanbrooks.info/bindery/guide/
   {% for entry in site.entries %}
     <article>
       <h2>{{ entry.title | escape }}</h2>
-      <h4><a href="{{ author.url | relative_url }}">{{ author.name }}</a></h4>
+      <h4>{{ author.name }}</h4>
       <div class="entry-content">
         {{ entry.content | markdownify }}
       </div>
