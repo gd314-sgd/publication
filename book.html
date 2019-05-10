@@ -49,7 +49,7 @@ Blank Page
   {% for entry in site.entries %}
   {% assign author = site.authors | where: 'short_name', entry.author | first %}
   <label class="toc-item">
-    <div class="toc-pg" data-toc="{{ page.title }}">
+    <div class="toc-pg" data-toc="{{ page.title | slugify }}">
     </div>
     <h4>
       {{ entry.title }} / {{ author.name }}
