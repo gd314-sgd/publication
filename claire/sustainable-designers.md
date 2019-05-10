@@ -25,7 +25,7 @@ Futerra is a sustainability consultancy agency working simultaneously as a creat
 ###What They Do Differently
 They are majority owned and led by a group of women, and they are one the United Kingdom's first B-Corporation, which essentially means an ethical business that, "commit to hitting social and environmental goals, alongside financial ones" (https://www.businessinsider.com/b-corporation-uk-2015-9 http://futerra.alchemy.digital/about/)
 
-They created a "Selling Sustainability" open-source guide for businesses that explains the importance of moving towards sustainability,  what the challenges are in branding sustainability, and how you can overcome them. They even have a section on how to avoid "Greenwashing," or over-glamorizing their "eco-friendly" product that may only have one sustainable attribute such as using less ink on the packaging and calling yourself sustainable. 
+They created a "Selling Sustainability" open-source guide for businesses that explains the importance of moving towards sustainability, what the challenges are in branding sustainability, and how you can overcome them. They even have a section on how to avoid "Greenwashing," or over-glamorizing their "eco-friendly" product that may only have one sustainable attribute such as using less ink on the packaging and calling yourself sustainable. 
 
 ![a man in a wet suit next to a small motor boat on a lake with the caption, "my wild life."](/publication/assets/img/claire/futerra1.jpg)
 ![an excited young boy on a rock in a lake holding a crab with the caption, "my show and tell."](/publication/assets/img/claire/futerra2.jpg)
@@ -38,7 +38,7 @@ The Wildlife Trusts: This charity, The Wildlife Trusts, has 800,000 members dedi
 ## La Page Original
 
 ###Who They Are
-A visual communication studeio that began in 1991 and specialize in social communication with institutions and businesses alike. They focus on creativity, community effectiveness, responsbility, quality, and sustainability. They work on a range of types of projects including communication plans, corpoate images and branding, editorial design, produce catalogs, global production process, and web projects.
+A visual communication studio that began in 1991 and specialize in social communication with institutions and businesses alike. They focus on creativity, community effectiveness, responsibility, quality, and sustainability. They work on a range of types of projects including communication plans, corporate images and branding, editorial design, produce catalogs, global production process, and web projects.
 
 ###What They Do Differently
 They focus on the full life cycle of every product they make, and they place close attention to any waste created. They use a 5 step plan to make sure that they are being as sustainable as possible. 1. End life: they work to use recycled materials or use materials that are completely recyclable. 2: Usability and user experience: in what ways can they reduce resources and achieve their end goal. 3. Profile producing companies: using production companies that use environmentally safe processes. 4. Edo-design strategies: making design decisions that have less impact such as material choice, waste decreasing forms, inks, and how things join or finish (not using something like glue which makes the material unrecyclable at the end). 5. Change agents: designing to promote more sustainable behaviors from the consumers or clients.
@@ -60,11 +60,11 @@ Squid Ink: La Page Original held a workshop with students from Pau Gargallo Scho
 A branding design group that works with companies who have environmental missions to push their clients to do better for the environment, economy, and society while also creating unique and custom brands. They accentuate that they are not Utopians, and instead embrace the practical nature of the world we live in and realize brand identity and certain market standards are important.  Their website is also beautifully designed. 
 
 ###What They Do Differently
-They work to be a sustainable company not just for their clients, but also in their work space. They use low-VOC furniture, are wind-powered, compost and recylce, as well as accentuate a healthy working experience for their employers (health insurance, flexible schedule, paid leave, and fair wages)
+They work to be a sustainable company not just for their clients, but also in their work space. They use low-VOC furniture, are wind-powered, compost and recycle, as well as accentuate a healthy working experience for their employers (health insurance, flexible schedule, paid leave, and fair wages)
 
 They create sustainability reports for their clients, allowing there to be transparency for consumers, and giving the companies a tangible understanding and feeling of change. They also acknowledge the entire lifespan of the products they create and work to 
 
-![an image scan of an open book with environmental statitics](/publication/assets/img/claire/Modern_Species1.jpg)
+![an image scan of an open book with environmental statistics](/publication/assets/img/claire/Modern_Species1.jpg)
 ![an image scan of an open book with Organic Valley's vision for sustainability mission](/publication/assets/img/claire/Modern_Species2.jpg)
 ![image scan of open book with ways Organic Valley is sustainable on their farm](/publication/assets/img/claire/Modern_Species3.jpg)
 ###Project Example
@@ -77,10 +77,10 @@ Sustainability Report for Organic Valley Farms: They created a magazine brochure
 ###Who They Are
 An Australia based non-profit organization that advocated for more sustainable graphic design practices. They provide tools such as a project calculator which allows you to input all the your project specifications and calculates waste created and then informs ways in which you can reduce your waste for your project. 
 ###What They Do Differently
-Published a book called Design to Renourish, written by Eric Benson and Yvette Perullo. It is a book written for graphic designers that, "helps to integrate sustainbility into their workflow through design process called systems thinking. This process asks the graphic designer to approach a design problem by being more informed and aware of and influenced by the impacts that materials and vendor choices have on one another, the planet, and consequently on us" (https://re-nourish.org/design-to-renourish/).
+Published a book called Design to Renourish, written by Eric Benson and Yvette Perullo. It is a book written for graphic designers that, "helps to integrate sustainability into their workflow through design process called systems thinking. This process asks the graphic designer to approach a design problem by being more informed and aware of and influenced by the impacts that materials and vendor choices have on one another, the planet, and consequently on us" (https://re-nourish.org/design-to-renourish/).
 
 ###Project Example
 ![boxes and cards on a table with colored bird patterned paper](/publication/assets/img/claire/Renourish.jpg)
-Renourish designed sustainable greeting cards that would benefit the non-profit organization, Trees for Life, in Australia that works to plant native trees. For this project they used 100% post-consumer recycled paper for both the cards and the envelopes. The envelopes were also unbleached. They used vegetable based inks, used digital to plate printing and worked to decrease water consumption. They designed the packaging to show the card designs through a cut out window, eliminating the use of plastic. They worked have the project carbon neutral by offsetting the amount of greenhouse gas emissions produced with Green power. Through their efforts, they were able to donate enough money to Trees for Life to plant over 40,000 trees. 
+Renourish designed sustainable greeting cards that would benefit the non-profit organization, Trees for Life, in Australia that works to plant native trees. For this project they used 100% post-consumer recycled paper for both the cards and the envelopes. The envelopes were also unbleached. They used vegetable based inks, used digital to plate printing and worked to decrease water consumption. They designed the packaging to show the card designs through a cut-out window, eliminating the use of plastic. They worked have the project carbon neutral by offsetting the amount of greenhouse gas emissions produced with Green power. Through their efforts, they were able to donate enough money to Trees for Life to plant over 40,000 trees. 
 
 
