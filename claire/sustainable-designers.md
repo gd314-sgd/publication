@@ -2,6 +2,7 @@
 
 <!-- the Canary Project design group -->
 ## The Canary Project
+http://canary-project.org/ 
 
 ###Who They Are
 Started by Susannah Sayler and Edward Morris, this team produces art and media specializing in ecological issues around the world. In many cases they are responsible for the specifically the logistics of these artistic works including documentation, publicity, editing, organizing, research, studio space, volunteers, etc.
@@ -20,6 +21,8 @@ High Water Line: A public artwork in NYC that marked the water line of 10 feet a
 
 <!-- futerra design group -->
 ## Futerra
+https://www.wearefuterra.com/ 
+
 ###Who They Are
 Futerra is a sustainability consultancy agency working simultaneously as a creative agency.  They work with clients that are promoting sustainably positive change. They started in the UK and have branched out to locations in Stockholm, New York, and Mexico.
 ###What They Do Differently
@@ -36,6 +39,7 @@ The Wildlife Trusts: This charity, The Wildlife Trusts, has 800,000 members dedi
 
 <!-- La Page Design Group -->
 ## La Page Original
+http://lapageoriginal.com/ca/nosaltres/ 
 
 ###Who They Are
 A visual communication studio that began in 1991 and specialize in social communication with institutions and businesses alike. They focus on creativity, community effectiveness, responsibility, quality, and sustainability. They work on a range of types of projects including communication plans, corporate images and branding, editorial design, produce catalogs, global production process, and web projects.
@@ -56,6 +60,8 @@ Squid Ink: La Page Original held a workshop with students from Pau Gargallo Scho
 
 <!-- Modern Species Design Group -->
 ## Modern Species LLC.
+https://modernspecies.com/ 
+
 ###Who They Are
 A branding design group that works with companies who have environmental missions to push their clients to do better for the environment, economy, and society while also creating unique and custom brands. They accentuate that they are not Utopians, and instead embrace the practical nature of the world we live in and realize brand identity and certain market standards are important.  Their website is also beautifully designed. 
 
@@ -73,6 +79,7 @@ Sustainability Report for Organic Valley Farms: They created a magazine brochure
 
 <!-- Renourish Design Group -->
 ## Renourish
+https://re-nourish.org/ 
 
 ###Who They Are
 An Australia based non-profit organization that advocated for more sustainable graphic design practices. They provide tools such as a project calculator which allows you to input all the your project specifications and calculates waste created and then informs ways in which you can reduce your waste for your project. 
