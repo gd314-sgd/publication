@@ -1,4 +1,8 @@
-# Bibliography/Resources
+---
+title: Bibliography/Resources
+category: resources
+---
+# Resources
 
 ## Readings
 
