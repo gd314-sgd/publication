@@ -40,3 +40,5 @@ I looked at the Bauhaus, The New School NY, and several other models for educati
 
 ## final images
 ![Thesis Exhibition](images/Artboard-1-copy.jpg)
+![Thesis Exhibition](images/Artboard-2.jpg)
+![Thesis Exhibition](images/Artboard-4.jpg)
