@@ -15,7 +15,13 @@ body {
 	font-size: 20px;
 
 	&._book {
-		font-size: 12px;
+		font-size: 13px;
+	}
+}
+
+@media print {
+	._book header {
+		display:none;
 	}
 }
 
