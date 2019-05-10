@@ -20,7 +20,7 @@ It came from the kitchen! Paper towels, plastic wrappers, food packaging from th
 2. Design Related Waste
 3. Cleaning/House Waste
 
-### 4. Replace Items as they Run Out & Properly recycle / compost items
+### 4. Replace Items as they run out & properly recycle / compost items
 
 This step is important! I wanted to cut back on my trash production over the month, but there were still plenty of unsustainable products in my house. So, do I just throw all off that away, so I can start off with a clean slate? No! Since I already bought the paper towels, and the tooth brush, and the packaged cleaning supplies, etc. I just need to use them. It doesn't make sense to get so wrapped up in only using reusable products that you just throw away everything in the house that doesn't fit into your long-term plan. But with this in mind, it's important to highlight that I produced a fair amount of trash compared to the zero-waste lifestyles I was inspired by. But that's OK, it's a process and it's something to work towards overtime. I'm about to run out of a handful of products that I plan on replacing with sustainable alternatives and I'll keep getting better over time. Don't expect to jump to practically zero-waste overnight. 
 
