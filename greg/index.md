@@ -37,3 +37,5 @@ It’s always important to let the process of making and ideation take on the we
 
 ## what other projects or examples did you look at for inspiration?
 I looked at the Bauhaus, The New School NY, and several other models for education. Looking at how these schools brand themselves made me want to make something unique and different. It also forced me to think about what was possible. My school went from a logistical nightmare to a zine and achieved the same goal of spreading easily accessible knowledge for all.
+
+## final images
