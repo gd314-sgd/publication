@@ -4,12 +4,12 @@ author: Claire Evans
 theme: Webdesign
 ---
 
-#Designing a Low-Energy Portfolio Website
-##Claire Evans | 2019
+# Designing a Low-Energy Portfolio Website
+## Claire Evans | 2019
 
 I started making my own portfolio website on Adobe's portfolio feature, thankful that I would not have to spend more money on a domain and server account, as well as the already coded templates—simple and easy. However, I know very little about the ways of the web, the way that you are supposed to optimize images to decrease the file sizes, and the way the servers have to send information back and forth constantly in order to load content onto a site. So, I embraced my large images, ability to put as much content as I would want on the site, and the amazing animation features that work throughout the site that would be difficult for me to learn myself.
 
-##The Issue With Online Template Websites
+## The Issue With Online Template Websites
 
 This is also the case for all online website makers: Squarespace, WordPress, CargoCollectiv, Wix, Weebly, GoDaddy, etc. They make it too easy to be unsustainable. You get unlimited, automatic animation effects that takes power to sustain. It's easy to upload as many pictures and content as you would like. Templates are set up so we don't have to worry about designing it ourselves. Best of all, it looks like all the rest of the websites on the web, and it is quick (heck you could have a working website in an hour). But is this really the best option? Learning to code and design on the web makes you aware and appreciate what is on the web; it can be pretty difficult to code, and it allows you to decide what is really important to put on a website. However, automatically going to the easiest options means we are unknowingly uploading images that are 4MB large, and putting content on a site that does not need to be there, and even creating a site that did not need to exist in the first place. Where is all of this information stored? On a server who knows where with hundreds or thousands or tens of thousands of other websites and their loads of data and content. And what powers those servers? The same thing that powers our electricity: natural gas and coal.
 
@@ -23,7 +23,7 @@ The most irritating thing that I found about those websites was that there was a
 
 Having an online portfolio as an artist nowadays is a given. But think of all of those artists that have their own websites that are jammed packed with large images and content just like mine; it ends up consuming a lot of energy and space on internet servers. If every artist were to carefully consider their footprint on the web, we might end up saving a lot of energy in the end.
 
-##Online Portfolio Considerations
+## Online Portfolio Considerations
 
 ![Original portfolio website](/publication/assets/img/claire/Original_Website.jpg)
 
@@ -35,7 +35,7 @@ Additionally, I wanted to create a single scroll page because this would elimina
 
 ![Portfolio website](/publication/assets/img/claire/Portfolio_website.jpg)
 
-##Design Choices
+## Design Choices
  
 Before I began coding, I thought about the fact that when I code I often fiddle around change stuff, and keep trying different scenarios of code through trial and error. This process in of itself uses energy and time that did not need to be wasted. I instead planned my code visually first on paper, then wrote down the code I would need to write in the HTML and CSS. When I opened visual studio code, all I had to do was copy it in. I also thought of ways I could use the least lines of code. All the elements were treated as a body instead of individually. I left many of the elements in the places HTML naturally places them, and used simple coding to make it visually unique. I did not link any fonts to the code, sticking to the default Sans-Serif font, and I used only two colors.
 
@@ -47,10 +47,10 @@ I actually found it challenging to find examples of low-energy sites, and if the
 * http://ovefelt.se/
 * http://www.tvrdek.cz/en
 
-##Visible Changes
+## Visible Changes
 
 When I inspected both of my sites, I could actually see the impact that my new site had on decreasing energy. To experience my new coded portfolio site, it took one load of 141ms (which is a really low amount). In order to load my previous website, it took 700-900ms per page click, and there are seven different pages to load to view all of the content. Though this project may seem minutely impactful in the grand scheme of sustainability, if everyone were take this approach, it would make a large-scale difference. Of course, visual aesthetics might be more important to someone, and that does not have to be disregarded—just being mindful and designing with this understanding is what counts.
 
-##In Conclusion
+## In Conclusion
 
 I personally know very little about coding, and have only been coding for two months, but I successfully created my own website. This is to say anyone else can do it too. I even paired down content and other web design elements. It surprisingly is not too hard to make a site look similar or the same to that of Squarespace's templates with limited knowledge of coding, however, I decided to make it look different and paired back for the sake of having a smaller footprint. That is to say, I took a more extreme approach and made design decisions that arguably isn't actually necessary. That is left open to consider. But it is important to take the extreme approach to see how far you can take it, and ease up if necessary.
