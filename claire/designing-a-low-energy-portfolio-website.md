@@ -47,6 +47,7 @@ I actually found it challenging to find examples of low-energy sites, and if the
 * http://ovefelt.se/
 * http://www.tvrdek.cz/en
 
+
 ## Visible Changes
 
 When I inspected both of my sites, I could actually see the impact that my new site had on decreasing energy. To experience my new coded portfolio site, it took one load of 141ms (which is a really low amount). In order to load my previous website, it took 700-900ms per page click, and there are seven different pages to load to view all of the content. Though this project may seem minutely impactful in the grand scheme of sustainability, if everyone were take this approach, it would make a large-scale difference. Of course, visual aesthetics might be more important to someone, and that does not have to be disregarded—just being mindful and designing with this understanding is what counts.
