@@ -47,7 +47,7 @@ Is this really a problem? If the site is too simple and no one winds up using it
 
 ![Thesis Exhibition](images/exhibitionwall.png)
 
-For my exhibition, I avoided vinyl on the wall by using a paint marker and projector to get a large amount of typography on the wall. This took about four hours to get done, it was easier than actually dealing with vinyl and it gave the wall a more unique appearance. This felt a bit risky in the moment, because I had never used this method before and if it hadn't worked it would have put me in a serious time-crunch. I did a few test in advanced and planned out my approach and luckily it all worked out. In the long run, this is a small change and it probably won't work for everyone's exhibition needs, but it was a nice example of sustainability can push your practice in new directions.  
+For my exhibition, I avoided vinyl on the wall by using a paint marker and projector to get a large amount of typography on the wall. This took about four hours to get done, it was easier than actually dealing with vinyl and it gave the wall a more unique appearance. This felt a bit risky in the moment, because I had never used this method before and if it hadn't worked it would have put me in a serious time-crunch. I did a few test in advanced and planned out my approach and luckily it all worked out. In the long run, this is a small change and it probably won't work for everyone's exhibition needs, but it was a nice example of how sustainability can influence your practice.  
 
 
 ## SUMMARY
